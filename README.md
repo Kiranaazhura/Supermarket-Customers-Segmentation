@@ -46,4 +46,4 @@ Berdasarkan latar belakang yang telah diuraikan, analisis yang akan dilakukan se
 |Complain|1 Jika pelanggan ada keluhan dalam 2 tahun terakhir, 0 jika tidak|
 
 ## Link Tableu
-[Tableu Supermarket](https://public.tableau.com/views/Capstone2_Kirana/Cover?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableu Supermarket](https://public.tableau.com/views/SupermarketCustomersSegmentation/Cover?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
