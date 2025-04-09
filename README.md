@@ -44,3 +44,6 @@ Berdasarkan latar belakang yang telah diuraikan, analisis yang akan dilakukan se
 |AcceptedCmp1-5|1 Jika pelanggan menerima penawaran pada promosi 1-5, 0 jika tidak|
 |Response|1 Jika pelanggan menerima penawaran pada promosi terakhir, 0 jika tidak|
 |Complain|1 Jika pelanggan ada keluhan dalam 2 tahun terakhir, 0 jika tidak|
+
+## Link Tableu
+[Tableu Supermarket](https://public.tableau.com/views/Capstone2_Kirana/Cover?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
