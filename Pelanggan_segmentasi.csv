@@ -1,0 +1,2241 @@
+ID,length,recency,frequency,monetary,L_score,R_score,F_score,M_score,lrfm_score,lrfm_segmentasi
+0,422,66,16,1198,3,2,3,4,3234,At-Risk High Spenders
+1,15,0,17,577,1,4,3,3,1433,High-Potential Newcomers
+1000,479,48,23,964,3,3,4,3,3343,Champions
+10001,698,98,6,100,4,1,1,2,4112,Dormant Accounts
+10010,662,43,7,152,4,3,2,2,4322,Rebounding Customers
+10022,141,78,3,16,1,1,1,1,1111,Explorers
+10031,505,50,7,53,3,2,2,1,3221,Dormant Accounts
+10032,163,86,7,53,1,1,2,1,1121,Explorers
+10033,137,54,4,38,1,2,1,1,1211,Explorers
+10037,57,66,15,1127,1,2,3,4,1234,High-Potential Newcomers
+10057,346,70,21,1331,2,2,4,4,2244,High-Potential Newcomers
+10061,541,29,23,1088,4,3,4,4,4344,Champions
+10065,331,27,6,64,2,3,1,1,2311,Explorers
+10067,324,79,3,13,2,1,1,1,2111,Explorers
+10069,668,43,4,58,4,3,1,1,4311,Rebounding Customers
+1008,556,31,23,1021,4,3,4,3,4343,Champions
+10084,43,9,5,50,1,4,1,1,1411,Explorers
+10089,451,5,28,1112,3,4,4,4,3444,Champions
+10091,406,78,15,1067,3,1,3,4,3134,At-Risk High Spenders
+10092,497,46,22,1504,3,3,4,4,3344,Champions
+10095,425,9,19,1293,3,4,4,4,3444,Champions
+10099,268,21,21,882,2,4,4,3,2443,High-Potential Newcomers
+1010,67,94,5,78,1,1,1,2,1112,Explorers
+10102,49,19,21,1478,1,4,4,4,1444,High-Potential Newcomers
+10104,239,65,3,8,2,2,1,1,2211,Explorers
+1012,497,26,20,884,3,3,4,3,3343,Champions
+10120,249,84,10,257,2,1,2,2,2122,Explorers
+10127,85,21,14,395,1,4,3,2,1432,Explorers
+10128,387,21,22,907,3,4,4,3,3443,Champions
+10129,110,35,20,1456,1,3,4,4,1344,High-Potential Newcomers
+10133,138,16,25,2349,1,4,4,4,1444,High-Potential Newcomers
+10140,275,27,16,1727,2,3,3,4,2334,High-Potential Newcomers
+10141,416,1,3,20,3,4,1,1,3411,Rebounding Customers
+10142,480,99,18,689,3,1,3,3,3133,At-Risk High Spenders
+10144,613,84,14,576,4,1,3,3,4133,At-Risk High Spenders
+10146,120,17,4,42,1,4,1,1,1411,Explorers
+10150,221,10,18,1449,2,4,3,4,2434,High-Potential Newcomers
+10151,656,38,21,946,4,3,4,3,4343,Champions
+10156,392,56,19,1237,3,2,4,4,3244,At-Risk High Spenders
+10157,156,78,11,274,1,1,2,2,1122,Explorers
+10159,456,77,25,1185,3,1,4,4,3144,At-Risk High Spenders
+1016,92,43,5,55,1,3,1,1,1311,Explorers
+10160,374,49,4,46,3,3,1,1,3311,Rebounding Customers
+10163,293,28,19,1323,2,3,4,4,2344,High-Potential Newcomers
+10164,88,75,15,1691,1,1,3,4,1134,High-Potential Newcomers
+10172,689,95,20,1538,4,1,4,4,4144,At-Risk High Spenders
+10175,333,0,4,22,2,4,1,1,2411,Explorers
+10176,675,44,16,416,4,3,3,3,4333,Champions
+10177,501,4,17,1338,3,4,3,4,3434,Champions
+10196,110,26,18,614,1,3,3,3,1333,High-Potential Newcomers
+1020,49,70,18,1366,1,2,3,4,1234,High-Potential Newcomers
+10203,365,77,4,42,3,1,1,1,3111,Dormant Accounts
+10207,376,40,3,15,3,3,1,1,3311,Rebounding Customers
+10212,533,43,6,100,4,3,1,2,4312,Rebounding Customers
+10219,377,40,4,38,3,3,1,1,3311,Rebounding Customers
+10232,237,9,12,331,2,4,2,2,2422,Explorers
+10236,287,59,5,64,2,2,1,1,2211,Explorers
+10240,496,10,20,1381,3,4,4,4,3444,Champions
+10241,197,16,3,14,2,4,1,1,2411,Explorers
+10242,287,39,6,75,2,3,1,2,2312,Explorers
+10245,607,71,14,756,4,2,3,3,4233,At-Risk High Spenders
+10250,587,49,3,28,4,3,1,1,4311,Rebounding Customers
+10258,420,94,4,35,3,1,1,1,3111,Dormant Accounts
+10260,308,74,12,311,2,2,2,2,2222,Explorers
+10262,416,96,7,53,3,1,2,1,3121,Dormant Accounts
+10264,628,60,4,31,4,2,1,1,4211,Dormant Accounts
+10270,270,8,6,66,2,4,1,1,2411,Explorers
+10277,494,27,4,42,3,3,1,1,3311,Rebounding Customers
+10281,143,11,17,602,1,4,3,3,1433,High-Potential Newcomers
+10286,147,2,23,926,1,4,4,3,1443,High-Potential Newcomers
+1029,333,27,11,279,2,3,2,2,2322,Explorers
+10299,598,73,22,882,4,2,4,3,4243,At-Risk High Spenders
+1030,348,72,4,38,2,2,1,1,2211,Explorers
+10304,549,77,4,60,4,1,1,1,4111,Dormant Accounts
+10307,303,91,16,525,2,1,3,3,2133,High-Potential Newcomers
+1031,421,5,25,1062,3,4,4,4,3444,Champions
+10311,268,0,25,359,2,4,4,2,2442,Explorers
+10313,610,69,10,254,4,2,2,2,4222,Dormant Accounts
+10314,561,79,24,1318,4,1,4,4,4144,At-Risk High Spenders
+10319,489,56,18,1286,3,2,3,4,3234,At-Risk High Spenders
+10323,248,88,11,304,2,1,2,2,2122,Explorers
+10339,372,83,9,207,3,1,2,2,3122,Dormant Accounts
+10340,594,68,12,497,4,2,2,3,4223,Fading Loyalist
+10341,127,45,9,222,1,3,2,2,1322,Explorers
+10343,639,27,17,1345,4,3,3,4,4334,Champions
+10350,417,37,4,38,3,3,1,1,3311,Rebounding Customers
+10352,661,2,6,117,4,4,1,2,4412,Rebounding Customers
+10356,646,5,4,32,4,4,1,1,4411,Rebounding Customers
+10364,352,72,3,20,2,2,1,1,2211,Explorers
+10377,389,37,12,397,3,3,2,3,3323,Rebounding Customers
+10379,234,87,16,574,2,1,3,3,2133,High-Potential Newcomers
+10380,283,50,6,106,2,2,1,2,2212,Explorers
+10381,360,43,3,21,3,3,1,1,3311,Rebounding Customers
+10383,454,30,20,1093,3,3,4,4,3344,Champions
+10390,505,27,4,30,3,3,1,1,3311,Rebounding Customers
+10394,189,91,17,1479,2,1,3,4,2134,High-Potential Newcomers
+10395,677,25,7,101,4,3,2,2,4322,Rebounding Customers
+10398,672,82,3,31,4,1,1,1,4111,Dormant Accounts
+10401,299,12,3,18,2,4,1,1,2411,Explorers
+10402,501,94,4,39,3,1,1,1,3111,Dormant Accounts
+10403,12,43,6,44,1,3,1,1,1311,Explorers
+1041,620,3,14,424,4,4,3,3,4433,Champions
+10413,66,67,22,1089,1,2,4,4,1244,High-Potential Newcomers
+10420,56,56,9,222,1,2,2,2,1222,Explorers
+10424,203,60,17,1295,2,2,3,4,2234,High-Potential Newcomers
+10430,264,22,11,1472,2,4,2,4,2424,High-Potential Newcomers
+10432,151,26,4,22,1,3,1,1,1311,Explorers
+1044,412,44,17,596,3,3,3,3,3333,Champions
+10446,600,58,16,729,4,2,3,3,4233,At-Risk High Spenders
+10448,616,55,13,377,4,2,3,2,4232,Fading Loyalist
+1045,683,55,11,279,4,2,2,2,4222,Dormant Accounts
+10451,475,6,3,25,3,4,1,1,3411,Rebounding Customers
+10466,312,86,5,60,2,1,1,1,2111,Explorers
+10469,145,42,17,1623,1,3,3,4,1334,High-Potential Newcomers
+10470,472,0,6,92,3,4,1,2,3412,Rebounding Customers
+10473,658,38,19,528,4,3,4,3,4343,Champions
+10475,455,39,12,317,3,3,2,2,3322,Rebounding Customers
+10476,48,0,10,251,1,4,2,2,1422,Explorers
+10477,328,16,6,102,2,4,1,2,2412,Explorers
+10478,641,53,18,633,4,2,3,3,4233,At-Risk High Spenders
+10479,570,64,10,1511,4,2,2,4,4224,Fading Loyalist
+1048,351,11,8,178,2,4,2,2,2422,Explorers
+10486,397,54,16,990,3,2,3,3,3233,At-Risk High Spenders
+10489,315,35,22,1778,2,3,4,4,2344,High-Potential Newcomers
+10490,567,11,12,417,4,4,2,3,4423,Rebounding Customers
+10492,6,96,3,10,1,1,1,1,1111,Explorers
+1050,61,58,7,65,1,2,2,1,1221,Explorers
+10500,86,96,7,98,1,1,2,2,1122,Explorers
+10505,186,86,14,1001,2,1,3,3,2133,High-Potential Newcomers
+10507,340,14,11,797,2,4,2,3,2423,High-Potential Newcomers
+10509,28,46,6,71,1,3,1,2,1312,Explorers
+10513,526,68,11,1502,3,2,2,4,3224,Fading Loyalist
+1052,499,24,24,1001,3,4,4,3,3443,Champions
+10521,292,0,8,174,2,4,2,2,2422,Explorers
+10524,375,29,18,795,3,3,3,3,3333,Champions
+10525,625,40,3,27,4,3,1,1,4311,Rebounding Customers
+10530,205,0,15,1156,2,4,3,4,2434,High-Potential Newcomers
+10536,36,78,6,46,1,1,1,1,1111,Explorers
+10542,694,63,6,77,4,2,1,2,4212,Dormant Accounts
+10548,113,30,23,960,1,3,4,3,1343,High-Potential Newcomers
+1055,102,40,4,45,1,3,1,1,1311,Explorers
+10552,406,18,12,367,3,4,2,2,3422,Rebounding Customers
+10556,37,51,13,358,1,2,3,2,1232,Explorers
+10560,14,23,4,20,1,4,1,1,1411,Explorers
+10562,275,21,23,1033,2,4,4,3,2443,High-Potential Newcomers
+10573,224,27,17,421,2,3,3,3,2333,High-Potential Newcomers
+10581,607,41,14,506,4,3,3,3,4333,Champions
+10582,362,3,19,758,3,4,4,3,3443,Champions
+10584,210,77,23,945,2,1,4,3,2143,High-Potential Newcomers
+10590,457,91,22,1483,3,1,4,4,3144,At-Risk High Spenders
+10591,693,37,9,201,4,3,2,2,4322,Rebounding Customers
+10595,357,19,5,69,3,4,1,2,3412,Rebounding Customers
+10598,441,89,5,37,3,1,1,1,3111,Dormant Accounts
+10602,501,30,7,156,3,3,2,2,3322,Rebounding Customers
+10609,261,15,6,88,2,4,1,2,2412,Explorers
+10613,124,44,7,62,1,3,2,1,1321,Explorers
+10617,39,34,6,30,1,3,1,1,1311,Explorers
+10619,574,29,17,1990,4,3,3,4,4334,Champions
+10623,227,2,4,32,2,4,1,1,2411,Explorers
+10629,654,25,6,109,4,3,1,2,4312,Rebounding Customers
+10634,72,56,14,406,1,2,3,3,1233,High-Potential Newcomers
+10637,545,77,6,99,4,1,1,2,4112,Dormant Accounts
+1064,201,18,4,42,2,4,1,1,2411,Explorers
+10640,298,71,9,211,2,2,2,2,2222,Explorers
+10641,550,5,6,57,4,4,1,1,4411,Rebounding Customers
+10642,547,13,4,37,4,4,1,1,4411,Rebounding Customers
+10643,536,23,18,653,4,4,3,3,4433,Champions
+10648,643,78,18,1289,4,1,3,4,4134,At-Risk High Spenders
+1065,183,85,18,1918,2,1,3,4,2134,High-Potential Newcomers
+10652,171,48,14,1169,1,3,3,4,1334,High-Potential Newcomers
+10659,419,7,7,53,3,4,2,1,3421,Rebounding Customers
+10660,169,61,14,438,1,2,3,3,1233,High-Potential Newcomers
+10664,296,14,15,467,2,4,3,3,2433,High-Potential Newcomers
+10669,409,8,15,470,3,4,3,3,3433,Champions
+10673,225,6,20,1416,2,4,4,4,2444,High-Potential Newcomers
+10675,453,82,17,1161,3,1,3,4,3134,At-Risk High Spenders
+10676,605,3,18,1173,4,4,3,4,4434,Champions
+10678,214,91,23,917,2,1,4,3,2143,High-Potential Newcomers
+10680,145,71,6,70,1,2,1,2,1212,Explorers
+10681,166,13,21,889,1,4,4,3,1443,High-Potential Newcomers
+10686,551,72,3,21,4,2,1,1,4211,Dormant Accounts
+10691,381,55,4,43,3,2,1,1,3211,Dormant Accounts
+10699,14,30,6,92,1,3,1,2,1312,Explorers
+10701,292,60,27,1211,2,2,4,4,2244,High-Potential Newcomers
+10702,604,67,15,450,4,2,3,3,4233,At-Risk High Spenders
+10703,681,86,7,120,4,1,2,2,4122,Dormant Accounts
+10704,678,65,17,693,4,2,3,3,4233,At-Risk High Spenders
+10708,184,50,4,33,2,2,1,1,2211,Explorers
+1071,344,10,23,1034,2,4,4,3,2443,High-Potential Newcomers
+10710,670,61,3,18,4,2,1,1,4211,Dormant Accounts
+10711,271,23,21,894,2,4,4,3,2443,High-Potential Newcomers
+1072,304,64,6,93,2,2,1,2,2212,Explorers
+10722,313,63,15,546,2,2,3,3,2233,High-Potential Newcomers
+10727,223,43,23,1586,2,3,4,4,2344,High-Potential Newcomers
+10735,334,75,4,26,2,1,1,1,2111,Explorers
+10736,291,28,20,1525,2,3,4,4,2344,High-Potential Newcomers
+10738,305,55,5,65,2,2,1,1,2211,Explorers
+10741,445,70,12,319,3,2,2,2,3222,Dormant Accounts
+10742,488,72,11,746,3,2,2,3,3223,Fading Loyalist
+10749,650,62,1,178,4,2,1,2,4212,Dormant Accounts
+10755,301,76,6,81,2,1,1,2,2112,Explorers
+10757,188,36,3,13,2,3,1,1,2311,Explorers
+10766,80,22,16,506,1,4,3,3,1433,High-Potential Newcomers
+10767,45,40,20,1346,1,3,4,4,1344,High-Potential Newcomers
+1077,572,52,14,1020,4,2,3,3,4233,At-Risk High Spenders
+10770,155,73,24,1045,1,2,4,3,1243,High-Potential Newcomers
+10779,78,16,4,49,1,4,1,1,1411,Explorers
+10785,11,17,5,41,1,4,1,1,1411,Explorers
+10789,492,13,5,68,3,4,1,1,3411,Rebounding Customers
+1079,622,59,16,1086,4,2,3,4,4234,At-Risk High Spenders
+10790,496,40,3,21,3,3,1,1,3311,Rebounding Customers
+10795,55,14,5,48,1,4,1,1,1411,Explorers
+10796,159,16,5,66,1,4,1,1,1411,Explorers
+1081,460,26,14,1019,3,3,3,3,3333,Champions
+10812,121,89,6,90,1,1,1,2,1112,Explorers
+10814,530,6,24,1376,3,4,4,4,3444,Champions
+10821,509,45,10,263,3,3,2,2,3322,Rebounding Customers
+10826,549,77,4,60,4,1,1,1,4111,Dormant Accounts
+10827,692,49,7,146,4,3,2,2,4322,Rebounding Customers
+10832,347,4,13,467,2,4,3,3,2433,High-Potential Newcomers
+10833,37,55,24,973,1,2,4,3,1243,High-Potential Newcomers
+10837,610,47,5,68,4,3,1,1,4311,Rebounding Customers
+10839,77,42,4,29,1,3,1,1,1311,Explorers
+10841,552,46,15,484,4,3,3,3,4333,Champions
+10846,32,22,16,629,1,4,3,3,1433,High-Potential Newcomers
+10854,38,90,5,45,1,1,1,1,1111,Explorers
+10855,159,9,13,396,1,4,3,2,1432,Explorers
+10856,363,42,4,46,3,3,1,1,3311,Rebounding Customers
+10858,294,38,21,820,2,3,4,3,2343,High-Potential Newcomers
+10862,682,6,12,326,4,4,2,2,4422,Rebounding Customers
+10868,509,82,17,1272,3,1,3,4,3134,At-Risk High Spenders
+1087,404,30,7,173,3,3,2,2,3322,Rebounding Customers
+10870,382,46,16,1341,3,3,3,4,3334,Champions
+10872,584,65,17,1182,4,2,3,4,4234,At-Risk High Spenders
+10882,598,50,13,915,4,2,3,3,4233,At-Risk High Spenders
+10888,239,46,18,636,2,3,3,3,2333,High-Potential Newcomers
+10897,687,63,27,1174,4,2,4,4,4244,At-Risk High Spenders
+10905,609,7,11,252,4,4,2,2,4422,Rebounding Customers
+10906,265,52,14,425,2,2,3,3,2233,High-Potential Newcomers
+10909,166,9,20,1899,1,4,4,4,1444,High-Potential Newcomers
+10913,572,56,3,27,4,2,1,1,4211,Dormant Accounts
+10914,261,3,4,17,2,4,1,1,2411,Explorers
+1092,688,17,16,1147,4,4,3,4,4434,Champions
+10925,167,93,24,1003,1,1,4,3,1143,High-Potential Newcomers
+10928,287,28,15,599,2,3,3,3,2333,High-Potential Newcomers
+10936,502,79,15,1947,3,1,3,4,3134,At-Risk High Spenders
+10949,196,8,18,1958,2,4,3,4,2434,High-Potential Newcomers
+10951,156,20,12,306,1,4,2,2,1422,Explorers
+10955,174,68,13,1600,1,2,3,4,1234,High-Potential Newcomers
+10965,493,72,21,1722,3,2,4,4,3244,At-Risk High Spenders
+10967,509,38,6,99,3,3,1,2,3312,Rebounding Customers
+10968,584,0,22,704,4,4,4,3,4443,Champions
+10971,665,28,12,473,4,3,2,3,4323,Rebounding Customers
+10972,112,52,13,939,1,2,3,3,1233,High-Potential Newcomers
+10981,148,27,17,1198,1,3,3,4,1334,High-Potential Newcomers
+10983,517,17,22,930,3,4,4,3,3443,Champions
+10991,570,18,13,850,4,4,3,3,4433,Champions
+10992,670,77,21,1148,4,1,4,4,4144,At-Risk High Spenders
+10995,595,8,7,92,4,4,2,2,4422,Rebounding Customers
+1100,98,33,7,61,1,3,2,1,1321,Explorers
+11003,271,10,5,50,2,4,1,1,2411,Explorers
+11004,44,23,3,22,1,4,1,1,1411,Explorers
+11007,417,43,4,34,3,3,1,1,3311,Rebounding Customers
+11010,304,75,6,44,2,1,1,1,2111,Explorers
+11013,456,84,16,938,3,1,3,3,3133,At-Risk High Spenders
+11025,512,9,7,138,3,4,2,2,3422,Rebounding Customers
+1103,639,60,18,2053,4,2,3,4,4234,At-Risk High Spenders
+11030,178,90,3,16,1,1,1,1,1111,Explorers
+11031,405,90,4,40,3,1,1,1,3111,Dormant Accounts
+11039,286,51,11,311,2,2,2,2,2222,Explorers
+11051,51,72,19,661,1,2,4,3,1243,High-Potential Newcomers
+11056,611,18,17,1188,4,4,3,4,4434,Champions
+11071,435,37,15,1923,3,3,3,4,3334,Champions
+11074,82,94,17,1423,1,1,3,4,1134,High-Potential Newcomers
+11075,244,37,11,270,2,3,2,2,2322,Explorers
+11084,228,4,15,1053,2,4,3,4,2434,High-Potential Newcomers
+11086,163,18,4,21,1,4,1,1,1411,Explorers
+11088,435,83,17,1816,3,1,3,4,3134,At-Risk High Spenders
+1109,433,38,3,12,3,3,1,1,3311,Rebounding Customers
+11091,45,68,4,22,1,2,1,1,1211,Explorers
+11092,120,78,5,41,1,1,1,1,1111,Explorers
+11096,326,50,10,232,2,2,2,2,2222,Explorers
+11100,445,37,5,63,3,3,1,1,3311,Rebounding Customers
+11101,441,17,25,836,3,4,4,3,3443,Champions
+11110,443,56,0,5,3,2,1,1,3211,Dormant Accounts
+11112,574,23,19,1477,4,4,4,4,4444,Champions
+11114,507,94,6,84,3,1,1,2,3112,Dormant Accounts
+11121,597,76,7,70,4,1,2,2,4122,Dormant Accounts
+11133,620,3,14,424,4,4,3,3,4433,Champions
+11148,407,85,3,13,3,1,1,1,3111,Dormant Accounts
+11166,513,81,12,315,3,1,2,2,3122,Dormant Accounts
+11171,262,60,14,411,2,2,3,3,2233,High-Potential Newcomers
+11176,49,12,16,495,1,4,3,3,1433,High-Potential Newcomers
+11178,99,69,4,32,1,2,1,1,1211,Explorers
+1118,495,87,19,685,3,1,4,3,3143,At-Risk High Spenders
+11181,305,85,0,8,2,1,1,1,2111,Explorers
+11187,406,23,6,69,3,4,1,2,3412,Rebounding Customers
+11188,125,84,6,89,1,1,1,2,1112,Explorers
+11191,205,11,7,139,2,4,2,2,2422,Explorers
+1127,32,62,19,1958,1,2,4,4,1244,High-Potential Newcomers
+113,349,33,4,28,2,3,1,1,2311,Explorers
+1131,86,54,6,95,1,2,1,2,1212,Explorers
+1135,135,96,7,47,1,1,2,1,1121,Explorers
+1137,183,87,16,1379,2,1,3,4,2134,High-Potential Newcomers
+1139,144,56,21,1512,1,2,4,4,1244,High-Potential Newcomers
+1142,190,91,14,428,2,1,3,3,2133,High-Potential Newcomers
+1143,326,43,5,55,2,3,1,1,2311,Explorers
+1146,661,5,22,874,4,4,4,3,4443,Champions
+115,461,0,14,393,3,4,3,2,3432,Frequent Shoppers
+1150,277,36,14,1853,2,3,3,4,2334,High-Potential Newcomers
+1158,176,27,7,144,1,3,2,2,1322,Explorers
+1160,311,48,6,49,2,3,1,1,2311,Explorers
+1162,536,23,18,653,4,4,3,3,4433,Champions
+1165,424,62,15,496,3,2,3,3,3233,At-Risk High Spenders
+1168,609,62,20,1401,4,2,4,4,4244,At-Risk High Spenders
+1170,462,45,10,244,3,3,2,2,3322,Rebounding Customers
+1172,425,71,24,2034,3,2,4,4,3244,At-Risk High Spenders
+1173,477,73,12,2252,3,2,2,4,3224,Fading Loyalist
+1175,283,24,11,426,2,4,2,3,2423,High-Potential Newcomers
+1176,281,50,3,25,2,2,1,1,2211,Explorers
+1177,520,77,7,129,3,1,2,2,3122,Dormant Accounts
+1183,282,11,3,22,2,4,1,1,2411,Explorers
+1184,404,46,22,845,3,3,4,3,3343,Champions
+1204,404,45,27,1829,3,3,4,4,3344,Champions
+1212,321,7,22,936,2,4,4,3,2443,High-Potential Newcomers
+1215,265,49,22,1572,2,3,4,4,2344,High-Potential Newcomers
+1225,4,47,18,1495,1,3,3,4,1334,High-Potential Newcomers
+123,540,92,13,993,4,1,3,3,4133,At-Risk High Spenders
+1232,248,54,16,1244,2,2,3,4,2234,High-Potential Newcomers
+1241,651,1,4,51,4,4,1,1,4411,Rebounding Customers
+1245,596,45,19,1371,4,3,4,4,4344,Champions
+125,411,65,11,271,3,2,2,2,3222,Dormant Accounts
+1250,143,82,6,84,1,1,1,2,1112,Explorers
+1272,617,49,22,903,4,3,4,3,4343,Champions
+1277,82,29,27,1004,1,3,4,3,1343,High-Potential Newcomers
+1291,695,90,12,351,4,1,2,2,4122,Dormant Accounts
+1295,323,96,18,725,2,1,3,3,2133,High-Potential Newcomers
+13,343,57,4,32,2,2,1,1,2211,Explorers
+1307,141,15,7,63,1,4,2,1,1421,Explorers
+1321,238,49,6,56,2,3,1,1,2311,Explorers
+1324,396,93,6,91,3,1,1,2,3112,Dormant Accounts
+1328,134,56,17,683,1,2,3,3,1233,High-Potential Newcomers
+1331,544,54,5,72,4,2,1,2,4212,Dormant Accounts
+1340,67,42,26,1795,1,3,4,4,1344,High-Potential Newcomers
+1343,642,55,16,586,4,2,3,3,4233,At-Risk High Spenders
+1349,70,4,7,148,1,4,2,2,1422,Explorers
+1351,648,25,28,1220,4,3,4,4,4344,Champions
+1357,448,90,12,1562,3,1,2,4,3124,Fading Loyalist
+1361,391,26,15,1435,3,3,3,4,3334,Champions
+1362,483,75,13,449,3,1,3,3,3133,At-Risk High Spenders
+1371,2,72,15,984,1,2,3,3,1233,High-Potential Newcomers
+1377,303,24,10,285,2,4,2,2,2422,Explorers
+1378,341,24,17,694,2,4,3,3,2433,High-Potential Newcomers
+1379,429,12,10,241,3,4,2,2,3422,Rebounding Customers
+1381,153,20,12,324,1,4,2,2,1422,Explorers
+1384,219,10,5,62,2,4,1,1,2411,Explorers
+1386,50,0,3,11,1,4,1,1,1411,Explorers
+1388,495,11,6,112,3,4,1,2,3412,Rebounding Customers
+1399,160,52,19,1515,1,2,4,4,1244,High-Potential Newcomers
+1402,657,1,18,1253,4,4,3,4,4434,Champions
+1403,662,40,4,38,4,3,1,1,4311,Rebounding Customers
+1404,411,89,9,231,3,1,2,2,3122,Dormant Accounts
+1406,503,49,14,415,3,3,3,3,3333,Champions
+1407,609,5,5,57,4,4,1,1,4411,Rebounding Customers
+1409,469,69,13,444,3,2,3,3,3233,At-Risk High Spenders
+1411,232,58,15,940,2,2,3,3,2233,High-Potential Newcomers
+1419,329,11,6,76,2,4,1,2,2412,Explorers
+143,309,73,12,957,2,2,2,3,2223,High-Potential Newcomers
+1440,664,84,23,1149,4,1,4,4,4144,At-Risk High Spenders
+1446,86,12,27,1226,1,4,4,4,1444,High-Potential Newcomers
+1448,5,33,6,51,1,3,1,1,1311,Explorers
+1453,359,59,25,1060,3,2,4,4,3244,At-Risk High Spenders
+1456,455,25,24,1180,3,3,4,4,3344,Champions
+1458,174,40,6,44,1,3,1,1,1311,Explorers
+1459,600,16,13,928,4,4,3,3,4433,Champions
+146,227,78,20,1323,2,1,4,4,2144,High-Potential Newcomers
+1461,337,74,5,38,2,2,1,1,2211,Explorers
+1463,93,9,3,21,1,4,1,1,1411,Explorers
+1473,342,0,5,72,2,4,1,2,2412,Explorers
+1490,579,84,21,854,4,1,4,3,4143,At-Risk High Spenders
+1491,497,87,14,559,3,1,3,3,3133,At-Risk High Spenders
+1497,527,8,14,407,3,4,3,3,3433,Champions
+1501,695,21,29,1717,4,4,4,4,4444,Champions
+1502,466,67,5,52,3,2,1,1,3211,Dormant Accounts
+1503,392,31,1,107,3,3,1,2,3312,Rebounding Customers
+1506,367,26,7,140,3,3,2,2,3322,Rebounding Customers
+1509,542,80,22,523,4,1,4,3,4143,At-Risk High Spenders
+1513,671,72,16,1250,4,2,3,4,4234,At-Risk High Spenders
+1515,159,9,4,28,1,4,1,1,1411,Explorers
+1517,381,92,4,51,3,1,1,1,3111,Dormant Accounts
+1518,378,29,19,749,3,3,4,3,3343,Champions
+1519,373,2,6,73,3,4,1,2,3412,Rebounding Customers
+1523,54,25,6,96,1,3,1,2,1312,Explorers
+1524,486,1,15,1104,3,4,3,4,3434,Champions
+153,256,29,4,46,2,3,1,1,2311,Explorers
+1542,182,26,14,396,2,3,3,2,2332,Explorers
+1544,555,51,16,1893,4,2,3,4,4234,At-Risk High Spenders
+1545,332,95,14,443,2,1,3,3,2133,High-Potential Newcomers
+1553,276,71,22,2283,2,2,4,4,2244,High-Potential Newcomers
+1570,496,8,24,1039,3,4,4,3,3443,Champions
+1577,131,14,14,1736,1,4,3,4,1434,High-Potential Newcomers
+158,225,3,16,1196,2,4,3,4,2434,High-Potential Newcomers
+1581,263,18,3,17,2,4,1,1,2411,Explorers
+1584,90,79,14,482,1,1,3,3,1133,High-Potential Newcomers
+1592,157,25,15,1724,1,3,3,4,1334,High-Potential Newcomers
+1600,262,60,14,411,2,2,3,3,2233,High-Potential Newcomers
+1604,229,93,10,225,2,1,2,2,2122,Explorers
+1606,411,65,3,22,3,2,1,1,3211,Dormant Accounts
+1612,395,82,6,47,3,1,1,1,3111,Dormant Accounts
+1618,544,9,19,692,4,4,4,3,4443,Champions
+1619,63,2,16,1588,1,4,3,4,1434,High-Potential Newcomers
+1626,42,37,4,49,1,3,1,1,1311,Explorers
+1627,520,84,21,789,3,1,4,3,3143,At-Risk High Spenders
+1628,249,54,16,960,2,2,3,3,2233,High-Potential Newcomers
+1630,327,56,14,424,2,2,3,3,2233,High-Potential Newcomers
+1631,665,3,19,1282,4,4,4,4,4444,Champions
+164,625,59,11,269,4,2,2,2,4222,Dormant Accounts
+1640,8,49,6,108,1,3,1,2,1312,Explorers
+1646,106,36,5,46,1,3,1,1,1311,Explorers
+1650,434,13,26,1643,3,4,4,4,3444,Champions
+1655,254,81,4,48,2,1,1,1,2111,Explorers
+1663,248,97,4,49,2,1,1,1,2111,Explorers
+1665,280,71,13,1750,2,2,3,4,2234,High-Potential Newcomers
+1672,121,74,14,461,1,2,3,3,1233,High-Potential Newcomers
+1676,243,30,11,266,2,3,2,2,2322,Explorers
+1685,470,21,22,1482,3,4,4,4,3444,Champions
+17,297,81,24,1028,2,1,4,3,2143,High-Potential Newcomers
+1710,480,51,11,279,3,2,2,2,3222,Dormant Accounts
+1715,504,45,5,48,3,3,1,1,3311,Rebounding Customers
+1717,78,43,10,273,1,3,2,2,1322,Explorers
+1726,469,23,4,81,3,4,1,2,3412,Rebounding Customers
+1729,271,14,18,1377,2,4,3,4,2434,High-Potential Newcomers
+1734,529,37,7,81,3,3,2,2,3322,Rebounding Customers
+1740,84,22,14,999,1,4,3,3,1433,High-Potential Newcomers
+1743,35,99,10,801,1,1,2,3,1123,High-Potential Newcomers
+1744,539,67,4,54,4,2,1,1,4211,Dormant Accounts
+1745,423,88,19,1313,3,1,4,4,3144,At-Risk High Spenders
+175,536,93,20,1443,4,1,4,4,4144,At-Risk High Spenders
+1755,80,93,6,114,1,1,1,2,1112,Explorers
+176,179,73,11,331,1,2,2,2,1222,Explorers
+1763,338,62,28,2524,2,2,4,4,2244,High-Potential Newcomers
+1764,325,92,11,270,2,1,2,2,2122,Explorers
+1772,535,2,18,2043,4,4,3,4,4434,Champions
+1773,573,38,5,57,4,3,1,1,4311,Rebounding Customers
+1777,661,29,5,74,4,3,1,2,4312,Rebounding Customers
+178,497,40,22,973,3,3,4,3,3343,Champions
+1802,529,23,18,680,3,4,3,3,3433,Champions
+1818,97,23,4,38,1,4,1,1,1411,Explorers
+182,415,62,13,397,3,2,3,3,3233,At-Risk High Spenders
+1826,14,0,14,1190,1,4,3,4,1434,High-Potential Newcomers
+1829,527,55,18,1232,3,2,3,4,3234,At-Risk High Spenders
+1833,65,91,7,133,1,1,2,2,1122,Explorers
+1834,114,77,5,67,1,1,1,1,1111,Explorers
+1839,70,25,7,141,1,3,2,2,1322,Explorers
+1857,116,2,5,83,1,4,1,2,1412,Explorers
+1859,672,34,18,1890,4,3,3,4,4334,Champions
+1867,594,42,18,1336,4,3,3,4,4334,Champions
+1876,499,15,5,85,3,4,1,2,3412,Rebounding Customers
+1878,132,83,5,37,1,1,1,1,1111,Explorers
+1880,151,17,6,93,1,4,1,2,1412,Explorers
+1890,649,95,3,25,4,1,1,1,4111,Dormant Accounts
+1891,691,12,15,1754,4,4,3,4,4434,Champions
+1907,640,53,21,1477,4,2,4,4,4244,At-Risk High Spenders
+1911,663,6,28,1364,4,4,4,4,4444,Champions
+1915,200,57,19,1507,2,2,4,4,2244,High-Potential Newcomers
+1916,341,92,14,437,2,1,3,3,2133,High-Potential Newcomers
+1920,336,59,6,102,2,2,1,2,2212,Explorers
+1921,270,74,5,71,2,2,1,2,2212,Explorers
+1927,99,41,13,690,1,3,3,3,1333,High-Potential Newcomers
+1928,506,73,5,83,3,2,1,2,3212,Dormant Accounts
+193,133,81,3,16,1,1,1,1,1111,Explorers
+194,21,55,4,41,1,2,1,1,1211,Explorers
+1940,353,26,3,18,2,3,1,1,2311,Explorers
+1945,285,4,18,1400,2,4,3,4,2434,High-Potential Newcomers
+195,673,21,10,246,4,4,2,2,4422,Rebounding Customers
+1951,519,92,21,839,3,1,4,3,3143,At-Risk High Spenders
+1958,101,85,19,660,1,1,4,3,1143,High-Potential Newcomers
+1964,298,66,17,1603,2,2,3,4,2234,High-Potential Newcomers
+1966,220,96,25,1672,2,1,4,4,2144,High-Potential Newcomers
+1968,210,37,3,28,2,3,1,1,2311,Explorers
+1970,658,14,6,103,4,4,1,2,4412,Rebounding Customers
+1987,278,34,5,59,2,3,1,1,2311,Explorers
+199,526,33,12,315,3,3,2,2,3322,Rebounding Customers
+1990,602,74,16,1797,4,2,3,4,4234,At-Risk High Spenders
+1991,163,0,6,96,1,4,1,2,1412,Explorers
+1992,180,2,12,893,1,4,2,3,1423,High-Potential Newcomers
+1993,554,63,14,972,4,2,3,3,4233,At-Risk High Spenders
+1994,227,11,3,19,2,4,1,1,2411,Explorers
+1998,143,82,6,84,1,1,1,2,1112,Explorers
+20,302,91,7,183,2,1,2,2,2122,Explorers
+2002,406,81,16,1870,3,1,3,4,3134,At-Risk High Spenders
+2004,285,65,16,1168,2,2,3,4,2234,High-Potential Newcomers
+2005,201,86,6,75,2,1,1,2,2112,Explorers
+2008,140,93,18,1149,1,1,3,4,1134,High-Potential Newcomers
+202,86,54,17,1234,1,2,3,4,1234,High-Potential Newcomers
+2021,460,47,29,1388,3,3,4,4,3344,Champions
+203,442,47,21,2089,3,3,4,4,3344,Champions
+2036,384,29,14,401,3,3,3,3,3333,Champions
+2055,42,37,4,49,1,3,1,1,1311,Explorers
+2061,415,61,6,99,3,2,1,2,3212,Dormant Accounts
+2066,669,56,6,114,4,2,1,2,4212,Dormant Accounts
+2072,683,34,15,1064,4,3,3,4,4334,Champions
+2075,228,56,15,1047,2,2,3,4,2234,High-Potential Newcomers
+2079,185,0,21,1208,2,4,4,4,2444,High-Potential Newcomers
+2088,269,98,23,1631,2,1,4,4,2144,High-Potential Newcomers
+2098,538,38,3,17,4,3,1,1,4311,Rebounding Customers
+2106,105,99,4,34,1,1,1,1,1111,Explorers
+2109,433,60,27,1544,3,2,4,4,3244,At-Risk High Spenders
+2114,583,23,25,1315,4,4,4,4,4444,Champions
+2115,10,68,5,66,1,2,1,1,1211,Explorers
+2118,293,68,17,622,2,2,3,3,2233,High-Potential Newcomers
+2125,227,82,15,1102,2,1,3,4,2134,High-Potential Newcomers
+213,33,98,6,48,1,1,1,1,1111,Explorers
+2130,99,4,7,147,1,4,2,2,1422,Explorers
+2131,547,37,19,1307,4,3,4,4,4344,Champions
+2134,682,94,18,694,4,1,3,3,4133,At-Risk High Spenders
+2139,271,19,5,31,2,4,1,1,2411,Explorers
+2147,318,91,22,2279,2,1,4,4,2144,High-Potential Newcomers
+2150,415,83,21,1482,3,1,4,4,3144,At-Risk High Spenders
+2154,552,33,5,44,4,3,1,1,4311,Rebounding Customers
+2156,604,38,6,41,4,3,1,1,4311,Rebounding Customers
+2157,534,49,6,77,4,3,1,2,4312,Rebounding Customers
+2162,285,19,16,561,2,4,3,3,2433,High-Potential Newcomers
+2166,353,55,3,23,2,2,1,1,2211,Explorers
+217,584,78,22,1540,4,1,4,4,4144,At-Risk High Spenders
+2173,257,23,4,32,2,4,1,1,2411,Explorers
+2174,114,38,4,27,1,3,1,1,1311,Explorers
+2176,406,40,14,1690,3,3,3,4,3334,Champions
+2181,372,45,13,1280,3,3,3,4,3334,Champions
+2186,112,30,21,2257,1,3,4,4,1344,High-Potential Newcomers
+22,574,99,12,309,4,1,2,2,4122,Dormant Accounts
+2202,447,98,5,69,3,1,1,2,3112,Dormant Accounts
+221,429,90,9,242,3,1,2,2,3122,Dormant Accounts
+2217,458,46,3,23,3,3,1,1,3311,Rebounding Customers
+2223,696,52,25,1826,4,2,4,4,4244,At-Risk High Spenders
+2225,23,54,20,1617,1,2,4,4,1244,High-Potential Newcomers
+2227,646,92,9,210,4,1,2,2,4122,Dormant Accounts
+2230,37,84,7,43,1,1,2,1,1121,Explorers
+2245,434,50,7,139,3,2,2,2,3222,Dormant Accounts
+2246,302,91,7,183,2,1,2,2,2122,Explorers
+2253,499,15,5,85,3,4,1,2,3412,Rebounding Customers
+2254,358,95,20,1455,3,1,4,4,3144,At-Risk High Spenders
+2256,93,33,4,21,1,3,1,1,1311,Explorers
+2258,573,76,4,42,4,1,1,1,4111,Dormant Accounts
+2261,372,5,3,16,3,4,1,1,3411,Rebounding Customers
+2262,308,74,12,311,2,2,2,2,2222,Explorers
+2276,424,71,22,868,3,2,4,3,3243,At-Risk High Spenders
+2278,604,86,6,133,4,1,1,2,4112,Dormant Accounts
+2281,288,34,3,28,2,3,1,1,2311,Explorers
+2285,398,0,12,335,3,4,2,2,3422,Rebounding Customers
+2286,293,27,6,114,2,3,1,2,2312,Explorers
+2292,332,94,4,24,2,1,1,1,2111,Explorers
+2295,148,57,21,825,1,2,4,3,1243,High-Potential Newcomers
+2296,196,4,3,30,2,4,1,1,2411,Explorers
+2304,287,86,21,770,2,1,4,3,2143,High-Potential Newcomers
+2308,589,40,12,330,4,3,2,2,4322,Rebounding Customers
+231,111,86,5,32,1,1,1,1,1111,Explorers
+2315,71,55,5,96,1,2,1,2,1212,Explorers
+232,348,8,16,530,2,4,3,3,2433,High-Potential Newcomers
+2320,291,98,18,635,2,1,3,3,2133,High-Potential Newcomers
+2324,246,12,29,1065,2,4,4,4,2444,High-Potential Newcomers
+2326,499,15,5,85,3,4,1,2,3412,Rebounding Customers
+2337,249,77,6,39,2,1,1,1,2111,Explorers
+234,628,60,4,31,4,2,1,1,4211,Dormant Accounts
+2345,248,54,16,1244,2,2,3,4,2234,High-Potential Newcomers
+2350,465,87,13,1027,3,1,3,3,3133,At-Risk High Spenders
+236,527,62,7,170,3,2,2,2,3222,Dormant Accounts
+2371,443,22,6,81,3,4,1,2,3412,Rebounding Customers
+2375,643,75,3,22,4,1,1,1,4111,Dormant Accounts
+2379,646,31,12,1635,4,3,2,4,4324,Rebounding Customers
+238,523,76,24,1082,3,1,4,4,3144,At-Risk High Spenders
+2387,512,9,11,275,3,4,2,2,3422,Rebounding Customers
+2392,336,59,6,102,2,2,1,2,2212,Explorers
+24,135,96,7,47,1,1,2,1,1121,Explorers
+2404,399,4,10,257,3,4,2,2,3422,Rebounding Customers
+2406,329,63,16,519,2,2,3,3,2233,High-Potential Newcomers
+2407,598,10,19,1555,4,4,4,4,4444,Champions
+2408,587,20,20,733,4,4,4,3,4443,Champions
+241,414,57,19,1574,3,2,4,4,3244,At-Risk High Spenders
+2410,159,69,15,1097,1,2,3,4,1234,High-Potential Newcomers
+2415,84,99,13,953,1,1,3,3,1133,High-Potential Newcomers
+2416,119,83,19,1288,1,1,4,4,1144,High-Potential Newcomers
+2426,654,35,28,895,4,3,4,3,4343,Champions
+2428,422,23,6,78,3,4,1,2,3412,Rebounding Customers
+2429,501,4,17,1338,3,4,3,4,3434,Champions
+2431,546,70,5,67,4,2,1,1,4211,Dormant Accounts
+2437,392,69,23,1611,3,2,4,4,3244,At-Risk High Spenders
+2445,358,87,5,63,3,1,1,1,3111,Dormant Accounts
+2447,621,71,5,69,4,2,1,2,4212,Dormant Accounts
+2452,545,8,12,318,4,4,2,2,4422,Rebounding Customers
+2453,668,83,20,819,4,1,4,3,4143,At-Risk High Spenders
+2456,259,84,8,149,2,1,2,2,2122,Explorers
+2457,612,23,4,45,4,4,1,1,4411,Rebounding Customers
+246,30,71,12,312,1,2,2,2,1222,Explorers
+2461,194,79,4,43,2,1,1,1,2111,Explorers
+247,590,16,13,357,4,4,3,2,4432,Frequent Shoppers
+2471,3,39,11,299,1,3,2,2,1322,Explorers
+2478,303,48,5,38,2,3,1,1,2311,Explorers
+2488,464,80,6,64,3,1,1,1,3111,Dormant Accounts
+2493,332,34,16,608,2,3,3,3,2333,High-Potential Newcomers
+2495,10,24,21,816,1,4,4,3,1443,High-Potential Newcomers
+2499,420,38,17,563,3,3,3,3,3333,Champions
+25,591,9,19,1115,4,4,4,4,4444,Champions
+2516,387,84,5,78,3,1,1,2,3112,Dormant Accounts
+2518,521,16,3,30,3,4,1,1,3411,Rebounding Customers
+252,470,11,16,601,3,4,3,3,3433,Champions
+2521,536,10,4,59,4,4,1,1,4411,Rebounding Customers
+2525,654,65,16,534,4,2,3,3,4233,At-Risk High Spenders
+2532,121,95,12,1651,1,1,2,4,1124,High-Potential Newcomers
+2534,70,4,8,188,1,4,2,2,1422,Explorers
+2535,681,24,19,844,4,4,4,3,4443,Champions
+254,44,4,15,473,1,4,3,3,1433,High-Potential Newcomers
+2541,386,7,5,48,3,4,1,1,3411,Rebounding Customers
+2544,261,68,6,92,2,2,1,2,2212,Explorers
+2546,8,7,5,70,1,4,1,2,1412,Explorers
+2549,344,80,4,27,2,1,1,1,2111,Explorers
+255,92,31,4,21,1,3,1,1,1311,Explorers
+2552,251,11,15,446,2,4,3,3,2433,High-Potential Newcomers
+2557,305,52,4,29,2,2,1,1,2211,Explorers
+2561,596,45,19,1371,4,3,4,4,4344,Champions
+2563,15,80,5,43,1,1,1,1,1111,Explorers
+2564,177,87,8,165,1,1,2,2,1122,Explorers
+2565,394,69,19,1334,3,2,4,4,3244,At-Risk High Spenders
+2569,628,38,4,46,4,3,1,1,4311,Rebounding Customers
+257,428,74,18,1215,3,2,3,4,3234,At-Risk High Spenders
+2570,342,35,21,815,2,3,4,3,2343,High-Potential Newcomers
+2574,515,27,18,1230,3,3,3,4,3334,Champions
+2579,195,95,22,835,2,1,4,3,2143,High-Potential Newcomers
+2587,46,21,5,20,1,4,1,1,1411,Explorers
+2589,143,65,6,59,1,2,1,1,1211,Explorers
+2591,8,49,13,932,1,3,3,3,1333,High-Potential Newcomers
+2607,535,78,18,630,4,1,3,3,4133,At-Risk High Spenders
+2611,698,66,18,1910,4,2,3,4,4234,At-Risk High Spenders
+2612,188,33,24,1682,2,3,4,4,2344,High-Potential Newcomers
+2613,88,16,10,237,1,4,2,2,1422,Explorers
+2620,443,48,3,23,3,3,1,1,3311,Rebounding Customers
+2625,225,30,12,350,2,3,2,2,2322,Explorers
+263,33,9,7,145,1,4,2,2,1422,Explorers
+2631,418,29,16,1149,3,3,3,4,3334,Champions
+2632,377,10,13,500,3,4,3,3,3433,Champions
+2634,73,10,6,69,1,4,1,2,1412,Explorers
+2639,171,45,6,68,1,3,1,1,1311,Explorers
+2656,494,63,4,59,3,2,1,1,3211,Dormant Accounts
+2661,391,95,6,44,3,1,1,1,3111,Dormant Accounts
+2666,144,21,22,907,1,4,4,3,1443,High-Potential Newcomers
+2669,57,66,15,1127,1,2,3,4,1234,High-Potential Newcomers
+2674,664,79,15,1143,4,1,3,4,4134,At-Risk High Spenders
+2677,456,11,10,241,3,4,2,2,3422,Rebounding Customers
+2678,502,62,8,209,3,2,2,2,3222,Dormant Accounts
+2681,333,1,18,461,2,4,3,3,2433,High-Potential Newcomers
+2683,513,56,22,910,3,2,4,3,3243,At-Risk High Spenders
+2686,252,49,3,26,2,3,1,1,2311,Explorers
+269,591,71,15,1143,4,2,3,4,4234,At-Risk High Spenders
+2694,104,44,4,24,1,3,1,1,1311,Explorers
+2698,235,52,14,415,2,2,3,3,2233,High-Potential Newcomers
+271,271,30,10,258,2,3,2,2,2322,Explorers
+2711,368,6,4,31,3,4,1,1,3411,Rebounding Customers
+2712,187,85,19,715,2,1,4,3,2143,High-Potential Newcomers
+2715,693,11,7,180,4,4,2,2,4422,Rebounding Customers
+2724,92,33,3,19,1,3,1,1,1311,Explorers
+2727,208,19,12,409,2,4,2,3,2423,High-Potential Newcomers
+273,349,48,8,151,2,3,2,2,2322,Explorers
+2730,314,64,17,1231,2,2,3,4,2234,High-Potential Newcomers
+2736,544,88,21,849,4,1,4,3,4143,At-Risk High Spenders
+274,189,75,5,34,2,1,1,1,2111,Explorers
+2740,281,81,7,90,2,1,2,2,2122,Explorers
+2747,668,90,19,2126,4,1,4,4,4144,At-Risk High Spenders
+2781,7,55,16,1792,1,2,3,4,1234,High-Potential Newcomers
+2782,354,23,14,404,2,4,3,3,2433,High-Potential Newcomers
+2793,344,10,23,1034,2,4,4,3,2443,High-Potential Newcomers
+2795,364,0,3,13,3,4,1,1,3411,Rebounding Customers
+2797,314,34,25,1073,2,3,4,4,2344,High-Potential Newcomers
+2798,605,54,26,1240,4,2,4,4,4244,At-Risk High Spenders
+2802,562,61,17,961,4,2,3,3,4233,At-Risk High Spenders
+2804,681,86,7,120,4,1,2,2,4122,Dormant Accounts
+2807,499,24,24,1001,3,4,4,3,3443,Champions
+2811,79,21,5,62,1,4,1,1,1411,Explorers
+2814,368,6,4,31,3,4,1,1,3411,Rebounding Customers
+2815,126,46,7,120,1,3,2,2,1322,Explorers
+2826,245,28,5,37,2,3,1,1,2311,Explorers
+2829,112,25,20,731,1,3,4,3,1343,High-Potential Newcomers
+2831,3,99,24,1179,1,1,4,4,1144,High-Potential Newcomers
+2836,287,61,3,19,2,2,1,1,2211,Explorers
+2849,455,25,24,1180,3,3,4,4,3344,Champions
+2853,111,74,10,275,1,2,2,2,1222,Explorers
+286,213,48,8,152,2,3,2,2,2322,Explorers
+2861,440,79,3,23,3,1,1,1,3111,Dormant Accounts
+2863,311,67,15,1052,2,2,3,4,2234,High-Potential Newcomers
+2868,448,33,5,57,3,3,1,1,3311,Rebounding Customers
+2870,647,6,15,502,4,4,3,3,4433,Champions
+2874,480,20,4,32,3,4,1,1,3411,Rebounding Customers
+2875,118,93,23,906,1,1,4,3,1143,High-Potential Newcomers
+2877,525,21,16,541,3,4,3,3,3433,Champions
+2878,275,93,13,414,2,1,3,3,2133,High-Potential Newcomers
+2882,637,31,14,995,4,3,3,3,4333,Champions
+2886,322,70,28,1217,2,2,4,4,2244,High-Potential Newcomers
+2891,255,51,21,928,2,2,4,3,2243,High-Potential Newcomers
+2894,244,74,20,2013,2,2,4,4,2244,High-Potential Newcomers
+2895,250,79,9,195,2,1,2,2,2122,Explorers
+2902,665,87,4,45,4,1,1,1,4111,Dormant Accounts
+2909,131,89,18,1264,1,1,3,4,1134,High-Potential Newcomers
+291,376,13,12,981,3,4,2,3,3423,Rebounding Customers
+2918,443,72,6,91,3,2,1,2,3212,Dormant Accounts
+2920,576,63,14,990,4,2,3,3,4233,At-Risk High Spenders
+2926,676,62,20,1374,4,2,4,4,4244,At-Risk High Spenders
+2928,576,63,14,990,4,2,3,3,4233,At-Risk High Spenders
+2929,495,27,7,137,3,3,2,2,3322,Rebounding Customers
+2930,196,7,18,1281,2,4,3,4,2434,High-Potential Newcomers
+2931,647,95,22,1192,4,1,4,4,4144,At-Risk High Spenders
+2936,208,46,4,23,2,3,1,1,2311,Explorers
+2937,306,47,22,871,2,3,4,3,2343,High-Potential Newcomers
+2939,8,96,14,1631,1,1,3,4,1134,High-Potential Newcomers
+2942,419,20,13,486,3,4,3,3,3433,Champions
+2945,78,25,4,46,1,3,1,1,1311,Explorers
+2948,121,76,9,185,1,1,2,2,1122,Explorers
+295,346,77,21,1157,2,1,4,4,2144,High-Potential Newcomers
+2952,75,80,6,76,1,1,1,2,1112,Explorers
+2958,126,53,7,57,1,2,2,1,1221,Explorers
+2961,489,86,13,382,3,1,3,2,3132,Fading Loyalist
+2963,59,56,20,1440,1,2,4,4,1244,High-Potential Newcomers
+2964,257,0,4,72,2,4,1,2,2412,Explorers
+2968,514,53,22,902,3,2,4,3,3243,At-Risk High Spenders
+2975,595,89,22,1956,4,1,4,4,4144,At-Risk High Spenders
+2980,465,52,6,35,3,2,1,1,3211,Dormant Accounts
+2986,110,89,3,20,1,1,1,1,1111,Explorers
+2995,317,64,16,1084,2,2,3,4,2234,High-Potential Newcomers
+3005,60,7,22,1650,1,4,4,4,1444,High-Potential Newcomers
+3006,434,83,4,43,3,1,1,1,3111,Dormant Accounts
+3007,634,49,4,40,4,3,1,1,4311,Rebounding Customers
+3009,356,8,14,1766,2,4,3,4,2434,High-Potential Newcomers
+3010,59,87,19,2069,1,1,4,4,1144,High-Potential Newcomers
+3011,154,23,10,227,1,4,2,2,1422,Explorers
+3025,357,4,12,306,3,4,2,2,3422,Rebounding Customers
+3032,488,97,8,193,3,1,2,2,3122,Dormant Accounts
+3033,415,56,10,318,3,2,2,2,3222,Dormant Accounts
+3037,375,32,14,410,3,3,3,3,3333,Champions
+304,189,67,6,76,2,2,1,2,2212,Explorers
+3050,195,13,10,235,2,4,2,2,2422,Explorers
+3056,259,63,26,1150,2,2,4,4,2244,High-Potential Newcomers
+3066,146,2,10,231,1,4,2,2,1422,Explorers
+3068,244,1,5,43,2,4,1,1,2411,Explorers
+3074,623,66,17,1828,4,2,3,4,4234,At-Risk High Spenders
+3075,292,47,14,382,2,3,3,2,2332,Explorers
+3076,661,18,18,612,4,4,3,3,4433,Champions
+3081,434,65,3,20,3,2,1,1,3211,Dormant Accounts
+3083,339,88,13,373,2,1,3,2,2132,Explorers
+309,622,48,16,1101,4,3,3,4,4334,Champions
+3091,59,27,20,823,1,3,4,3,1343,High-Potential Newcomers
+3099,490,48,11,310,3,3,2,2,3322,Rebounding Customers
+310,199,81,17,573,2,1,3,3,2133,High-Potential Newcomers
+3102,257,32,4,32,2,3,1,1,2311,Explorers
+3104,651,89,20,2006,4,1,4,4,4144,At-Risk High Spenders
+3107,59,31,12,350,1,3,2,2,1322,Explorers
+3112,298,2,4,24,2,4,1,1,2411,Explorers
+3117,255,95,12,450,2,1,2,3,2123,High-Potential Newcomers
+3120,306,49,3,22,2,3,1,1,2311,Explorers
+3129,39,30,5,45,1,3,1,1,1311,Explorers
+313,245,98,21,2088,2,1,4,4,2144,High-Potential Newcomers
+3130,391,95,6,44,3,1,1,1,3111,Dormant Accounts
+3136,443,88,19,663,3,1,4,3,3143,At-Risk High Spenders
+3138,618,84,22,1676,4,1,4,4,4144,At-Risk High Spenders
+3139,182,53,18,2052,2,2,3,4,2234,High-Potential Newcomers
+3152,125,84,6,89,1,1,1,2,1112,Explorers
+3153,204,24,3,17,2,4,1,1,2411,Explorers
+3158,543,1,4,39,4,4,1,1,4411,Rebounding Customers
+3170,303,86,14,1042,2,1,3,3,2133,High-Potential Newcomers
+3174,404,61,19,1957,3,2,4,4,3244,At-Risk High Spenders
+3179,379,75,19,1572,3,1,4,4,3144,At-Risk High Spenders
+3182,91,81,9,263,1,1,2,2,1122,Explorers
+3194,86,86,18,1230,1,1,3,4,1134,High-Potential Newcomers
+3197,196,38,18,670,2,3,3,3,2333,High-Potential Newcomers
+3202,637,60,18,1250,4,2,3,4,4234,At-Risk High Spenders
+322,534,93,5,41,4,1,1,1,4111,Dormant Accounts
+3220,501,30,7,156,3,3,2,2,3322,Rebounding Customers
+3225,455,71,10,265,3,2,2,2,3222,Dormant Accounts
+3231,217,97,4,30,2,1,1,1,2111,Explorers
+3233,464,89,26,1117,3,1,4,4,3144,At-Risk High Spenders
+3254,259,65,13,960,2,2,3,3,2233,High-Potential Newcomers
+326,497,38,12,315,3,3,2,2,3322,Rebounding Customers
+3262,692,31,24,1655,4,3,4,4,4344,Champions
+3265,468,36,4,46,3,3,1,1,3311,Rebounding Customers
+3266,68,96,6,125,1,1,1,2,1112,Explorers
+3267,5,27,17,608,1,3,3,3,1333,High-Potential Newcomers
+3270,529,96,7,128,3,1,2,2,3122,Dormant Accounts
+3276,248,53,6,78,2,2,1,2,2212,Explorers
+3277,696,9,13,365,4,4,3,2,4432,Frequent Shoppers
+3281,239,69,13,411,2,2,3,3,2233,High-Potential Newcomers
+3283,162,57,20,909,1,2,4,3,1243,High-Potential Newcomers
+3286,121,71,5,42,1,2,1,1,1211,Explorers
+3298,599,92,24,1152,4,1,4,4,4144,At-Risk High Spenders
+3308,178,54,6,94,1,2,1,2,1212,Explorers
+3310,677,94,9,211,4,1,2,2,4122,Dormant Accounts
+3312,49,12,7,89,1,4,2,2,1422,Explorers
+332,465,56,11,275,3,2,2,2,3222,Dormant Accounts
+3321,421,42,17,542,3,3,3,3,3333,Champions
+3332,670,87,8,165,4,1,2,2,4122,Dormant Accounts
+3334,138,35,21,2211,1,3,4,4,1344,High-Potential Newcomers
+3336,221,96,11,948,2,1,2,3,2123,High-Potential Newcomers
+3340,682,56,14,436,4,2,3,3,4233,At-Risk High Spenders
+3363,105,99,4,34,1,1,1,1,1111,Explorers
+3376,199,9,10,235,2,4,2,2,2422,Explorers
+3381,22,51,6,90,1,2,1,2,1212,Explorers
+3386,374,71,7,137,3,2,2,2,3222,Dormant Accounts
+3388,243,16,12,294,2,4,2,2,2422,Explorers
+3389,585,61,30,1533,4,2,4,4,4244,At-Risk High Spenders
+339,584,82,16,496,4,1,3,3,4133,At-Risk High Spenders
+340,562,1,17,497,4,4,3,3,4433,Champions
+3403,644,11,19,2092,4,4,4,4,4444,Champions
+3406,616,97,12,322,4,1,2,2,4122,Dormant Accounts
+3409,258,68,12,339,2,2,2,2,2222,Explorers
+3412,531,67,13,957,4,2,3,3,4233,At-Risk High Spenders
+3421,435,64,21,908,3,2,4,3,3243,At-Risk High Spenders
+3422,578,67,9,1376,4,2,2,4,4224,Fading Loyalist
+3426,350,89,23,1596,2,1,4,4,2144,High-Potential Newcomers
+3427,444,11,20,734,3,4,4,3,3443,Champions
+3428,267,56,23,1598,2,2,4,4,2244,High-Potential Newcomers
+3433,392,54,20,981,3,2,4,3,3243,At-Risk High Spenders
+3434,49,60,18,1336,1,2,3,4,1234,High-Potential Newcomers
+3436,155,24,4,20,1,4,1,1,1411,Explorers
+3439,607,64,10,296,4,2,2,2,4222,Dormant Accounts
+3445,529,56,21,957,3,2,4,3,3243,At-Risk High Spenders
+3463,16,41,23,904,1,3,4,3,1343,High-Potential Newcomers
+3469,662,94,6,103,4,1,1,2,4112,Dormant Accounts
+347,660,30,13,377,4,3,3,2,4332,Frequent Shoppers
+3478,371,17,20,736,3,4,4,3,3443,Champions
+3479,346,49,5,50,2,3,1,1,2311,Explorers
+3483,450,76,22,1526,3,1,4,4,3144,At-Risk High Spenders
+3491,427,32,25,1260,3,3,4,4,3344,Champions
+3498,582,6,21,877,4,4,4,3,4443,Champions
+35,660,35,7,210,4,3,2,2,4322,Rebounding Customers
+3503,210,78,14,974,2,1,3,3,2133,High-Potential Newcomers
+3507,682,44,12,1575,4,3,2,4,4324,Rebounding Customers
+3515,133,94,8,160,1,1,2,2,1122,Explorers
+3517,420,32,7,161,3,3,2,2,3322,Rebounding Customers
+3518,572,45,4,50,4,3,1,1,4311,Rebounding Customers
+3520,460,94,14,1092,3,1,3,4,3134,At-Risk High Spenders
+3523,523,83,17,1073,3,1,3,4,3134,At-Risk High Spenders
+3524,330,9,8,167,2,4,2,2,2422,Explorers
+3525,570,19,3,17,4,4,1,1,4411,Rebounding Customers
+3526,154,58,4,38,1,2,1,1,1211,Explorers
+3535,105,68,12,967,1,2,2,3,1223,High-Potential Newcomers
+3536,463,65,5,55,3,2,1,1,3211,Dormant Accounts
+3537,682,57,7,79,4,2,2,2,4222,Dormant Accounts
+3547,547,12,5,64,4,4,1,1,4411,Rebounding Customers
+3551,93,28,8,198,1,3,2,2,1322,Explorers
+3559,51,77,6,57,1,1,1,1,1111,Explorers
+3560,414,57,19,1574,3,2,4,4,3244,At-Risk High Spenders
+3565,92,62,6,72,1,2,1,2,1212,Explorers
+3570,252,64,10,244,2,2,2,2,2222,Explorers
+3571,622,48,16,1101,4,3,3,4,4334,Champions
+3578,253,29,10,236,2,3,2,2,2322,Explorers
+3584,679,35,20,1396,4,3,4,4,4344,Champions
+359,533,33,16,504,4,3,3,3,4333,Champions
+3594,602,74,19,747,4,2,4,3,4243,At-Risk High Spenders
+3595,122,29,26,1138,1,3,4,4,1344,High-Potential Newcomers
+3598,403,53,18,606,3,2,3,3,3233,At-Risk High Spenders
+3599,581,61,20,1464,4,2,4,4,4244,At-Risk High Spenders
+3602,181,42,9,195,1,3,2,2,1322,Explorers
+361,132,84,3,20,1,1,1,1,1111,Explorers
+3619,645,19,16,1152,4,4,3,4,4434,Champions
+3623,19,55,7,45,1,2,2,1,1221,Explorers
+3628,517,93,5,80,3,1,1,2,3112,Dormant Accounts
+3629,558,17,7,145,4,4,2,2,4422,Rebounding Customers
+3635,54,69,17,578,1,2,3,3,1233,High-Potential Newcomers
+3641,526,93,5,36,3,1,1,1,3111,Dormant Accounts
+3643,102,65,13,928,1,2,3,3,1233,High-Potential Newcomers
+3645,669,19,6,70,4,4,1,2,4412,Rebounding Customers
+3657,501,1,8,165,3,4,2,2,3422,Rebounding Customers
+3661,626,42,18,1435,4,3,3,4,4334,Champions
+3665,235,46,6,54,2,3,1,1,2311,Explorers
+3667,487,20,24,1757,3,4,4,4,3444,Champions
+367,496,74,15,577,3,2,3,3,3233,At-Risk High Spenders
+3673,351,59,23,779,2,2,4,3,2243,High-Potential Newcomers
+3678,631,13,18,656,4,4,3,3,4433,Champions
+368,578,61,11,290,4,2,2,2,4222,Dormant Accounts
+3690,535,20,21,2091,4,4,4,4,4444,Champions
+3696,154,67,5,52,1,2,1,1,1211,Explorers
+3697,503,20,7,134,3,4,2,2,3422,Rebounding Customers
+3698,690,13,18,2130,4,4,3,4,4434,Champions
+3706,313,54,6,94,2,2,1,2,2212,Explorers
+3710,626,41,5,81,4,3,1,2,4312,Rebounding Customers
+3711,121,19,19,1902,1,4,4,4,1444,High-Potential Newcomers
+3712,306,63,11,259,2,2,2,2,2222,Explorers
+3717,68,70,16,704,1,2,3,3,1233,High-Potential Newcomers
+3722,75,83,5,48,1,1,1,1,1111,Explorers
+3725,417,1,15,1688,3,4,3,4,3434,Champions
+3726,134,66,3,17,1,2,1,1,1211,Explorers
+3732,511,72,21,860,3,2,4,3,3243,At-Risk High Spenders
+3745,664,92,6,103,4,1,1,2,4112,Dormant Accounts
+3749,485,54,23,1580,3,2,4,4,3244,At-Risk High Spenders
+375,490,79,15,1156,3,1,3,4,3134,At-Risk High Spenders
+3759,340,34,24,1155,2,3,4,4,2344,High-Potential Newcomers
+3762,454,30,16,925,3,3,3,3,3333,Champions
+3766,683,15,18,835,4,4,3,3,4433,Champions
+3767,431,1,22,1008,3,4,4,3,3443,Champions
+3769,120,17,4,42,1,4,1,1,1411,Explorers
+378,547,68,19,794,4,2,4,3,4243,At-Risk High Spenders
+3783,98,43,7,116,1,3,2,2,1322,Explorers
+3790,158,31,3,15,1,3,1,1,1311,Explorers
+3798,236,80,6,81,2,1,1,2,2112,Explorers
+3799,216,4,20,868,2,4,4,3,2443,High-Potential Newcomers
+380,658,17,24,1804,4,4,4,4,4444,Champions
+3807,577,83,20,766,4,1,4,3,4143,At-Risk High Spenders
+3828,498,61,26,1327,3,2,4,4,3244,At-Risk High Spenders
+3829,202,94,4,29,2,1,1,1,2111,Explorers
+3830,67,59,15,459,1,2,3,3,1233,High-Potential Newcomers
+3834,470,35,21,861,3,3,4,3,3343,Champions
+3839,423,76,7,88,3,1,2,2,3122,Dormant Accounts
+3846,670,98,11,270,4,1,2,2,4122,Dormant Accounts
+3850,570,52,4,43,4,2,1,1,4211,Dormant Accounts
+3852,479,48,23,964,3,3,4,3,3343,Champions
+3855,438,74,7,162,3,2,2,2,3222,Dormant Accounts
+3856,633,78,22,1005,4,1,4,3,4143,At-Risk High Spenders
+3859,303,36,25,1095,2,3,4,4,2344,High-Potential Newcomers
+3865,426,14,6,73,3,4,1,2,3412,Rebounding Customers
+3867,303,36,25,1095,2,3,4,4,2344,High-Potential Newcomers
+387,594,59,5,61,4,2,1,1,4211,Dormant Accounts
+3870,506,28,23,1006,3,3,4,3,3343,Champions
+3878,123,3,4,48,1,4,1,1,1411,Explorers
+3885,257,10,4,63,2,4,1,1,2411,Explorers
+3887,596,2,5,106,4,4,1,2,4412,Rebounding Customers
+3896,235,3,4,37,2,4,1,1,2411,Explorers
+3900,93,54,20,769,1,2,4,3,1243,High-Potential Newcomers
+3910,265,78,17,1862,2,1,3,4,2134,High-Potential Newcomers
+3916,684,92,22,890,4,1,4,3,4143,At-Risk High Spenders
+3919,476,64,19,1931,3,2,4,4,3244,At-Risk High Spenders
+3921,610,96,9,205,4,1,2,2,4122,Dormant Accounts
+3924,105,34,23,916,1,3,4,3,1343,High-Potential Newcomers
+3933,625,46,18,662,4,3,3,3,4333,Champions
+3934,332,34,16,608,2,3,3,3,2333,High-Potential Newcomers
+3945,477,80,23,930,3,1,4,3,3143,At-Risk High Spenders
+3955,8,20,0,6,1,4,1,1,1411,Explorers
+3967,248,19,23,943,2,4,4,3,2443,High-Potential Newcomers
+3968,367,77,26,1199,3,1,4,4,3144,At-Risk High Spenders
+3969,241,46,6,133,2,3,1,2,2312,Explorers
+3972,453,70,13,401,3,2,3,3,3233,At-Risk High Spenders
+3979,404,98,16,1779,3,1,3,4,3134,At-Risk High Spenders
+4001,20,56,15,444,1,2,3,3,1233,High-Potential Newcomers
+4002,260,3,26,1123,2,4,4,4,2444,High-Potential Newcomers
+4012,688,55,18,1226,4,2,3,4,4234,At-Risk High Spenders
+4023,662,29,7,115,4,3,2,2,4322,Rebounding Customers
+4037,381,77,3,20,3,1,1,1,3111,Dormant Accounts
+4042,625,87,8,180,4,1,2,2,4122,Dormant Accounts
+4047,170,0,17,544,1,4,3,3,1433,High-Potential Newcomers
+405,502,68,13,441,3,2,3,3,3233,At-Risk High Spenders
+4050,9,65,7,127,1,2,2,2,1222,Explorers
+4055,32,41,6,64,1,3,1,1,1311,Explorers
+4058,261,76,21,811,2,1,4,3,2143,High-Potential Newcomers
+4065,503,0,14,404,3,4,3,3,3433,Champions
+4066,50,76,5,46,1,1,1,1,1111,Explorers
+4070,667,99,17,1078,4,1,3,4,4134,At-Risk High Spenders
+4073,152,0,27,1215,1,4,4,4,1444,High-Potential Newcomers
+4084,164,41,21,873,1,3,4,3,1343,High-Potential Newcomers
+4086,549,77,4,60,4,1,1,1,4111,Dormant Accounts
+4088,571,22,8,155,4,4,2,2,4422,Rebounding Customers
+4093,504,61,12,436,3,2,2,3,3223,Fading Loyalist
+4094,674,92,11,289,4,1,2,2,4122,Dormant Accounts
+4095,657,80,13,467,4,1,3,3,4133,At-Risk High Spenders
+4096,186,24,9,187,2,4,2,2,2422,Explorers
+4098,153,3,6,44,1,4,1,1,1411,Explorers
+4099,595,14,4,62,4,4,1,1,4411,Rebounding Customers
+4102,458,46,3,23,3,3,1,1,3311,Rebounding Customers
+4107,265,52,14,425,2,2,3,3,2233,High-Potential Newcomers
+4114,688,2,28,1693,4,4,4,4,4444,Champions
+4119,415,56,10,318,3,2,2,2,3222,Dormant Accounts
+4120,195,61,11,369,2,2,2,2,2222,Explorers
+4122,670,73,15,895,4,2,3,3,4233,At-Risk High Spenders
+4127,493,97,32,1529,3,1,4,4,3144,At-Risk High Spenders
+4128,345,51,18,725,2,2,3,3,2233,High-Potential Newcomers
+4136,574,63,7,119,4,2,2,2,4222,Dormant Accounts
+4137,206,29,15,1076,2,3,3,4,2334,High-Potential Newcomers
+4138,37,68,22,899,1,2,4,3,1243,High-Potential Newcomers
+4141,313,26,20,776,2,3,4,3,2343,High-Potential Newcomers
+4148,679,90,12,348,4,1,2,2,4122,Dormant Accounts
+4149,48,57,20,1348,1,2,4,4,1244,High-Potential Newcomers
+4168,467,30,14,433,3,3,3,3,3333,Champions
+4174,74,81,7,130,1,1,2,2,1122,Explorers
+4179,314,94,5,55,2,1,1,1,2111,Explorers
+4184,23,48,10,265,1,3,2,2,1322,Explorers
+4186,329,11,6,76,2,4,1,2,2412,Explorers
+4188,686,53,11,354,4,2,2,2,4222,Dormant Accounts
+4198,475,6,3,25,3,4,1,1,3411,Rebounding Customers
+4200,13,85,11,275,1,1,2,2,1122,Explorers
+4201,484,39,14,468,3,3,3,3,3333,Champions
+4207,425,27,24,1298,3,3,4,4,3344,Champions
+4211,609,5,5,57,4,4,1,1,4411,Rebounding Customers
+4216,493,33,25,1474,3,3,4,4,3344,Champions
+4220,240,26,6,87,2,3,1,2,2312,Explorers
+4227,297,78,6,55,2,1,1,1,2111,Explorers
+4240,604,79,5,58,4,1,1,1,4111,Dormant Accounts
+4246,200,2,2,373,2,4,1,2,2412,Explorers
+4248,133,23,19,2008,1,4,4,4,1444,High-Potential Newcomers
+425,496,66,19,727,3,2,4,3,3243,At-Risk High Spenders
+4252,99,73,11,301,1,2,2,2,1222,Explorers
+4259,279,80,3,10,2,1,1,1,2111,Explorers
+4261,583,23,25,1315,4,4,4,4,4444,Champions
+4268,21,50,8,158,1,2,2,2,1222,Explorers
+4271,634,80,11,341,4,1,2,2,4122,Dormant Accounts
+4278,392,73,18,1923,3,2,3,4,3234,At-Risk High Spenders
+4279,91,87,5,54,1,1,1,1,1111,Explorers
+4286,172,24,19,679,1,4,4,3,1443,High-Potential Newcomers
+4290,103,8,3,24,1,4,1,1,1411,Explorers
+4297,155,71,5,40,1,2,1,1,1211,Explorers
+4298,98,63,3,10,1,2,1,1,1211,Explorers
+4299,647,28,27,1825,4,3,4,4,4344,Champions
+4301,536,10,4,59,4,4,1,1,4411,Rebounding Customers
+4303,569,76,1,137,4,1,1,2,4112,Dormant Accounts
+4310,159,25,20,1428,1,3,4,4,1344,High-Potential Newcomers
+4320,459,6,22,943,3,4,4,3,3443,Champions
+4322,215,20,19,1291,2,4,4,4,2444,High-Potential Newcomers
+4324,609,42,16,684,4,3,3,3,4333,Champions
+4328,296,81,6,55,2,1,1,1,2111,Explorers
+4329,38,43,4,16,1,3,1,1,1311,Explorers
+433,477,42,18,632,3,3,3,3,3333,Champions
+4331,158,41,20,1371,1,3,4,4,1344,High-Potential Newcomers
+4333,99,76,6,54,1,1,1,1,1111,Explorers
+4338,97,28,4,44,1,3,1,1,1311,Explorers
+4339,181,37,23,913,1,3,4,3,1343,High-Potential Newcomers
+4345,169,49,3,21,1,3,1,1,1311,Explorers
+4351,429,90,4,55,3,1,1,1,3111,Dormant Accounts
+4356,306,70,11,1574,2,2,2,4,2224,High-Potential Newcomers
+4368,209,72,7,134,2,2,2,2,2222,Explorers
+4369,171,48,14,1169,1,3,3,4,1334,High-Potential Newcomers
+437,156,41,22,1027,1,3,4,3,1343,High-Potential Newcomers
+4370,229,83,6,88,2,1,1,2,2112,Explorers
+4376,135,27,6,93,1,3,1,2,1312,Explorers
+4377,539,32,13,575,4,3,3,3,4333,Champions
+4381,316,56,10,235,2,2,2,2,2222,Explorers
+4385,395,82,6,47,3,1,1,1,3111,Dormant Accounts
+4390,76,14,21,841,1,4,4,3,1443,High-Potential Newcomers
+4391,435,64,21,908,3,2,4,3,3243,At-Risk High Spenders
+4394,38,43,22,1501,1,3,4,4,1344,High-Potential Newcomers
+4399,5,3,15,1091,1,4,3,4,1434,High-Potential Newcomers
+4405,335,2,21,789,2,4,4,3,2443,High-Potential Newcomers
+4406,530,29,21,1471,3,3,4,4,3344,Champions
+4415,656,19,5,38,4,4,1,1,4411,Rebounding Customers
+4418,490,36,24,1644,3,3,4,4,3344,Champions
+4426,281,35,15,527,2,3,3,3,2333,High-Potential Newcomers
+4427,650,56,27,1365,4,2,4,4,4244,At-Risk High Spenders
+4432,471,82,5,51,3,1,1,1,3111,Dormant Accounts
+4436,495,27,7,137,3,3,2,2,3322,Rebounding Customers
+4437,432,65,10,260,3,2,2,2,3222,Dormant Accounts
+4440,293,93,17,546,2,1,3,3,2133,High-Potential Newcomers
+4442,451,70,7,177,3,2,2,2,3222,Dormant Accounts
+4444,98,28,5,61,1,3,1,1,1311,Explorers
+4452,33,3,13,372,1,4,3,2,1432,Explorers
+4459,547,13,4,37,4,4,1,1,4411,Rebounding Customers
+4470,385,3,7,140,3,4,2,2,3422,Rebounding Customers
+4472,3,34,5,57,1,3,1,1,1311,Explorers
+4475,499,82,24,2440,3,1,4,4,3144,At-Risk High Spenders
+4477,276,4,17,653,2,4,3,3,2433,High-Potential Newcomers
+4478,463,87,18,653,3,1,3,3,3133,At-Risk High Spenders
+448,486,57,19,795,3,2,4,3,3243,At-Risk High Spenders
+4480,113,61,14,401,1,2,3,3,1233,High-Potential Newcomers
+4483,439,67,18,1228,3,2,3,4,3234,At-Risk High Spenders
+4487,522,67,6,95,3,2,1,2,3212,Dormant Accounts
+4491,637,3,17,1178,4,4,3,4,4434,Champions
+450,353,90,9,270,2,1,2,2,2122,Explorers
+4500,267,56,23,1598,2,2,4,4,2244,High-Potential Newcomers
+4501,232,94,19,1478,2,1,4,4,2144,High-Potential Newcomers
+4507,580,87,21,1250,4,1,4,4,4144,At-Risk High Spenders
+4508,39,92,18,833,1,1,3,3,1133,High-Potential Newcomers
+451,192,91,4,22,2,1,1,1,2111,Explorers
+4518,436,59,25,1169,3,2,4,4,3244,At-Risk High Spenders
+453,1,1,5,45,1,4,1,1,1411,Explorers
+4530,614,36,20,1930,4,3,4,4,4344,Champions
+454,593,48,26,1135,4,3,4,4,4344,Champions
+4541,249,84,10,257,2,1,2,2,2122,Explorers
+4543,607,32,18,1919,4,3,3,4,4334,Champions
+4547,439,86,4,25,3,1,1,1,3111,Dormant Accounts
+4548,219,66,4,54,2,2,1,1,2211,Explorers
+455,438,86,9,209,3,1,2,2,3122,Dormant Accounts
+4550,6,51,5,71,1,2,1,2,1212,Explorers
+4552,373,37,11,393,3,3,2,2,3322,Rebounding Customers
+4554,272,89,13,448,2,1,3,3,2133,High-Potential Newcomers
+4557,269,11,6,67,2,4,1,1,2411,Explorers
+456,508,96,5,36,3,1,1,1,3111,Dormant Accounts
+4580,248,46,25,2486,2,3,4,4,2344,High-Potential Newcomers
+4587,347,90,11,266,2,1,2,2,2122,Explorers
+4597,363,67,18,2018,3,2,3,4,3234,At-Risk High Spenders
+4599,238,66,15,458,2,2,3,3,2233,High-Potential Newcomers
+460,691,72,16,1753,4,2,3,4,4234,At-Risk High Spenders
+4603,150,50,19,656,1,2,4,3,1243,High-Potential Newcomers
+4607,311,24,16,777,2,4,3,3,2433,High-Potential Newcomers
+4608,125,18,26,778,1,4,4,3,1443,High-Potential Newcomers
+4609,170,14,15,486,1,4,3,3,1433,High-Potential Newcomers
+4611,525,36,30,1724,3,3,4,4,3344,Champions
+4619,33,9,27,277,1,4,4,2,1442,Explorers
+4637,408,73,24,1650,3,2,4,4,3244,At-Risk High Spenders
+4640,647,65,24,1079,4,2,4,4,4244,At-Risk High Spenders
+4643,673,40,7,176,4,3,2,2,4322,Rebounding Customers
+4646,211,44,24,978,2,3,4,3,2343,High-Potential Newcomers
+4653,461,46,8,189,3,3,2,2,3322,Rebounding Customers
+4654,235,40,18,1253,2,3,3,4,2334,High-Potential Newcomers
+4656,457,28,19,710,3,3,4,3,3343,Champions
+466,453,9,20,746,3,4,4,3,3443,Champions
+4669,504,46,7,102,3,3,2,2,3322,Rebounding Customers
+4673,608,17,18,1241,4,4,3,4,4434,Champions
+4676,117,86,23,1695,1,1,4,4,1144,High-Potential Newcomers
+4679,38,42,25,1092,1,3,4,4,1344,High-Potential Newcomers
+4682,258,88,12,310,2,1,2,2,2122,Explorers
+4686,89,28,24,1686,1,3,4,4,1344,High-Potential Newcomers
+4687,403,92,23,1633,3,1,4,4,3144,At-Risk High Spenders
+4690,502,45,17,586,3,3,3,3,3333,Champions
+4692,698,19,7,71,4,4,2,2,4422,Rebounding Customers
+4697,382,62,13,390,3,2,3,2,3232,Fading Loyalist
+4698,375,32,14,410,3,3,3,3,3333,Champions
+4702,687,20,16,1895,4,4,3,4,4434,Champions
+4706,429,65,4,40,3,2,1,1,3211,Dormant Accounts
+4712,579,18,6,82,4,4,1,2,4412,Rebounding Customers
+4713,585,15,7,125,4,4,2,2,4422,Rebounding Customers
+4725,78,71,6,67,1,2,1,1,1211,Explorers
+4741,151,17,17,562,1,4,3,3,1433,High-Potential Newcomers
+4743,484,72,23,971,3,2,4,3,3243,At-Risk High Spenders
+4749,642,55,16,586,4,2,3,3,4233,At-Risk High Spenders
+4754,278,91,6,122,2,1,1,2,2112,Explorers
+4756,192,42,24,1168,2,3,4,4,2344,High-Potential Newcomers
+4764,680,52,8,169,4,2,2,2,4222,Dormant Accounts
+4767,84,41,19,1363,1,3,4,4,1344,High-Potential Newcomers
+4769,12,52,16,493,1,2,3,3,1233,High-Potential Newcomers
+477,13,31,21,2157,1,3,4,4,1344,High-Potential Newcomers
+4785,77,3,20,714,1,4,4,3,1443,High-Potential Newcomers
+4786,634,94,25,1109,4,1,4,4,4144,At-Risk High Spenders
+4789,286,95,17,1677,2,1,3,4,2134,High-Potential Newcomers
+4790,28,54,12,868,1,2,2,3,1223,High-Potential Newcomers
+4791,561,35,4,41,4,3,1,1,4311,Rebounding Customers
+4796,72,71,4,39,1,2,1,1,1211,Explorers
+48,67,97,8,184,1,1,2,2,1122,Explorers
+4808,298,12,3,17,2,4,1,1,2411,Explorers
+4817,695,91,3,18,4,1,1,1,4111,Dormant Accounts
+4827,477,3,15,455,3,4,3,3,3433,Champions
+4828,12,12,20,792,1,4,4,3,1443,High-Potential Newcomers
+4832,115,84,6,101,1,1,1,2,1112,Explorers
+4837,499,57,26,1305,3,2,4,4,3244,At-Risk High Spenders
+4838,376,40,3,15,3,3,1,1,3311,Rebounding Customers
+4843,39,92,18,833,1,1,3,3,1133,High-Potential Newcomers
+4855,389,19,5,46,3,4,1,1,3411,Rebounding Customers
+4856,601,38,24,1853,4,3,4,4,4344,Champions
+486,148,27,17,1198,1,3,3,4,1334,High-Potential Newcomers
+4860,479,66,4,25,3,2,1,1,3211,Dormant Accounts
+4864,424,68,8,175,3,2,2,2,3222,Dormant Accounts
+4865,303,2,14,400,2,4,3,3,2433,High-Potential Newcomers
+4867,283,2,7,88,2,4,2,2,2422,Explorers
+4877,118,2,4,41,1,4,1,1,1411,Explorers
+4887,220,65,5,63,2,2,1,1,2211,Explorers
+49,50,39,4,25,1,3,1,1,1311,Explorers
+4910,669,81,29,2074,4,1,4,4,4144,At-Risk High Spenders
+4915,696,86,19,732,4,1,4,3,4143,At-Risk High Spenders
+492,620,3,14,424,4,4,3,3,4433,Champions
+4927,166,76,6,68,1,1,1,1,1111,Explorers
+4931,427,13,28,1730,3,4,4,4,3444,Champions
+4937,20,62,4,44,1,2,1,1,1211,Explorers
+4939,668,20,11,317,4,4,2,2,4422,Rebounding Customers
+4943,638,73,15,1727,4,2,3,4,4234,At-Risk High Spenders
+4944,311,24,16,777,2,4,3,3,2433,High-Potential Newcomers
+4945,600,29,26,1210,4,3,4,4,4344,Champions
+4947,653,44,23,2059,4,3,4,4,4344,Champions
+4954,160,53,11,265,1,2,2,2,1222,Explorers
+4961,160,56,7,61,1,2,2,1,1221,Explorers
+4964,155,90,17,1158,1,1,3,4,1134,High-Potential Newcomers
+4967,458,19,11,268,3,4,2,2,3422,Rebounding Customers
+4971,571,22,8,155,4,4,2,2,4422,Rebounding Customers
+4973,50,39,4,25,1,3,1,1,1311,Explorers
+4974,643,98,19,1392,4,1,4,4,4144,At-Risk High Spenders
+498,148,28,5,57,1,3,1,1,1311,Explorers
+4988,57,58,6,62,1,2,1,1,1211,Explorers
+4990,424,90,20,869,3,1,4,3,3143,At-Risk High Spenders
+4992,284,12,6,69,2,4,1,2,2412,Explorers
+4994,272,53,25,1735,2,2,4,4,2244,High-Potential Newcomers
+4998,38,85,13,1033,1,1,3,3,1133,High-Potential Newcomers
+500,328,79,23,1941,2,1,4,4,2144,High-Potential Newcomers
+5010,148,72,4,34,1,2,1,1,1211,Explorers
+5011,255,51,21,928,2,2,4,3,2243,High-Potential Newcomers
+5012,361,56,4,34,3,2,1,1,3211,Dormant Accounts
+5015,654,94,7,162,4,1,2,2,4122,Dormant Accounts
+5025,188,32,7,135,2,3,2,2,2322,Explorers
+5029,328,14,3,14,2,4,1,1,2411,Explorers
+503,475,88,5,53,3,1,1,1,3111,Dormant Accounts
+5031,646,14,25,1833,4,4,4,4,4444,Champions
+5036,579,38,12,406,4,3,2,3,4323,Rebounding Customers
+5043,602,89,11,434,4,1,2,3,4123,Fading Loyalist
+5046,158,97,23,1638,1,1,4,4,1144,High-Potential Newcomers
+5048,415,53,6,131,3,2,1,2,3212,Dormant Accounts
+5049,389,19,5,46,3,4,1,1,3411,Rebounding Customers
+5057,289,74,18,611,2,2,3,3,2233,High-Potential Newcomers
+5062,338,71,4,39,2,2,1,1,2211,Explorers
+5063,559,76,9,191,4,1,2,2,4122,Dormant Accounts
+5067,136,11,20,1378,1,4,4,4,1444,High-Potential Newcomers
+5068,334,75,4,26,2,1,1,1,2111,Explorers
+5074,357,10,4,47,3,4,1,1,3411,Rebounding Customers
+5077,240,46,23,969,2,3,4,3,2343,High-Potential Newcomers
+5079,484,82,6,97,3,1,1,2,3112,Dormant Accounts
+5080,252,12,16,1258,2,4,3,4,2434,High-Potential Newcomers
+5081,253,54,4,47,2,2,1,1,2211,Explorers
+5084,187,87,23,1064,2,1,4,4,2144,High-Potential Newcomers
+5092,503,39,15,467,3,3,3,3,3333,Champions
+5093,650,15,6,101,4,4,1,2,4412,Rebounding Customers
+5107,42,37,4,49,1,3,1,1,1311,Explorers
+5113,235,67,15,1702,2,2,3,4,2234,High-Potential Newcomers
+5114,558,1,14,965,4,4,3,3,4433,Champions
+5117,697,32,16,576,4,3,3,3,4333,Champions
+5120,643,78,18,1289,4,1,3,4,4134,At-Risk High Spenders
+5121,101,30,18,761,1,3,3,3,1333,High-Potential Newcomers
+5123,441,57,6,143,3,2,1,2,3212,Dormant Accounts
+5125,409,64,25,1348,3,2,4,4,3244,At-Risk High Spenders
+5136,164,58,21,798,1,2,4,3,1243,High-Potential Newcomers
+5138,532,68,4,43,4,2,1,1,4211,Dormant Accounts
+5140,675,66,19,1445,4,2,4,4,4244,At-Risk High Spenders
+5147,336,57,26,1424,2,2,4,4,2244,High-Potential Newcomers
+5150,560,64,5,47,4,2,1,1,4211,Dormant Accounts
+5153,493,97,32,1529,3,1,4,4,3144,At-Risk High Spenders
+5154,323,54,5,54,2,2,1,1,2211,Explorers
+5156,166,13,21,889,1,4,4,3,1443,High-Potential Newcomers
+5172,228,4,15,1053,2,4,3,4,2434,High-Potential Newcomers
+5176,204,88,4,53,2,1,1,1,2111,Explorers
+5177,200,56,14,396,2,2,3,2,2232,Explorers
+5180,73,56,8,149,1,2,2,2,1222,Explorers
+5181,467,58,3,24,3,2,1,1,3211,Dormant Accounts
+5184,96,65,3,23,1,2,1,1,1211,Explorers
+5185,501,83,12,892,3,1,2,3,3123,Fading Loyalist
+5186,110,59,20,731,1,2,4,3,1243,High-Potential Newcomers
+520,364,81,3,30,3,1,1,1,3111,Dormant Accounts
+5204,366,21,21,1461,3,4,4,4,3444,Champions
+5207,644,41,19,793,4,3,4,3,4343,Champions
+5209,378,21,17,638,3,4,3,3,3433,Champions
+521,650,42,16,581,4,3,3,3,4333,Champions
+5221,576,93,22,879,4,1,4,3,4143,At-Risk High Spenders
+5223,68,80,6,66,1,1,1,1,1111,Explorers
+5229,134,81,4,42,1,1,1,1,1111,Explorers
+523,515,51,6,74,3,2,1,2,3212,Dormant Accounts
+5231,123,15,4,51,1,4,1,1,1411,Explorers
+5232,154,23,10,227,1,4,2,2,1422,Explorers
+5234,354,85,5,81,2,1,1,2,2112,Explorers
+5236,674,30,20,2194,4,3,4,4,4344,Champions
+5237,180,79,6,63,1,1,1,1,1111,Explorers
+524,530,47,5,96,3,3,1,2,3312,Rebounding Customers
+5247,51,52,5,45,1,2,1,1,1211,Explorers
+5250,243,75,21,1564,2,1,4,4,2144,High-Potential Newcomers
+5252,612,80,5,67,4,1,1,1,4111,Dormant Accounts
+5253,356,85,10,227,2,1,2,2,2122,Explorers
+5255,495,19,27,637,3,4,4,3,3443,Champions
+5263,524,99,4,55,3,1,1,1,3111,Dormant Accounts
+5267,473,43,4,44,3,3,1,1,3311,Rebounding Customers
+5268,323,95,5,56,2,1,1,1,2111,Explorers
+5272,368,64,16,562,3,2,3,3,3233,At-Risk High Spenders
+5278,156,83,20,902,1,1,4,3,1143,High-Potential Newcomers
+528,578,99,19,1383,4,1,4,4,4144,At-Risk High Spenders
+5283,133,72,7,144,1,2,2,2,1222,Explorers
+5286,245,68,9,217,2,2,2,2,2222,Explorers
+5287,11,77,7,79,1,1,2,2,1122,Explorers
+5289,598,30,4,72,4,3,1,2,4312,Rebounding Customers
+5290,320,51,11,279,2,2,2,2,2222,Explorers
+5294,222,49,7,57,2,3,2,1,2321,Explorers
+5299,223,43,23,1586,2,3,4,4,2344,High-Potential Newcomers
+5300,182,60,5,70,2,2,1,2,2212,Explorers
+5302,500,13,15,1428,3,4,3,4,3434,Champions
+5303,83,42,19,1113,1,3,4,4,1344,High-Potential Newcomers
+5304,625,35,4,33,4,3,1,1,4311,Rebounding Customers
+531,646,55,22,1662,4,2,4,4,4244,At-Risk High Spenders
+5313,73,20,6,44,1,4,1,1,1411,Explorers
+5314,469,69,13,444,3,2,3,3,3233,At-Risk High Spenders
+5316,361,89,6,84,3,1,1,2,3112,Dormant Accounts
+5320,517,20,8,171,3,4,2,2,3422,Rebounding Customers
+5324,162,94,14,422,1,1,3,3,1133,High-Potential Newcomers
+5329,276,24,3,11,2,4,1,1,2411,Explorers
+5331,657,8,16,1869,4,4,3,4,4434,Champions
+5332,338,2,16,1066,2,4,3,4,2434,High-Potential Newcomers
+5336,391,37,2,59,3,3,1,1,3311,Rebounding Customers
+5341,541,2,13,1588,4,4,3,4,4434,Champions
+5342,691,31,4,29,4,3,1,1,4311,Rebounding Customers
+5346,362,87,6,79,3,1,1,2,3112,Dormant Accounts
+535,125,18,26,778,1,4,4,3,1443,High-Potential Newcomers
+5350,137,29,17,2525,1,3,3,4,1334,High-Potential Newcomers
+5370,530,38,14,413,3,3,3,3,3333,Champions
+5371,83,0,6,91,1,4,1,2,1412,Explorers
+5376,540,42,28,1730,4,3,4,4,4344,Champions
+538,140,78,6,125,1,1,1,2,1112,Explorers
+5386,483,62,18,2302,3,2,3,4,3234,At-Risk High Spenders
+5389,253,93,13,347,2,1,3,2,2132,Explorers
+5393,692,64,4,42,4,2,1,1,4211,Dormant Accounts
+5394,470,42,6,38,3,3,1,1,3311,Rebounding Customers
+5396,533,48,29,1366,4,3,4,4,4344,Champions
+5407,291,70,23,1085,2,2,4,4,2244,High-Potential Newcomers
+5423,246,35,3,16,2,3,1,1,2311,Explorers
+5424,501,30,7,156,3,3,2,2,3322,Rebounding Customers
+5429,314,10,9,183,2,4,2,2,2422,Explorers
+5430,654,0,19,684,4,4,4,3,4443,Champions
+544,415,51,13,976,3,2,3,3,3233,At-Risk High Spenders
+5441,309,97,13,388,2,1,3,2,2132,Explorers
+5453,642,26,23,2352,4,3,4,4,4344,Champions
+5454,211,80,5,50,2,1,1,1,2111,Explorers
+5455,312,89,7,122,2,1,2,2,2122,Explorers
+5462,687,63,27,1174,4,2,4,4,4244,At-Risk High Spenders
+5474,212,79,9,223,2,1,2,2,2122,Explorers
+5491,445,70,12,319,3,2,2,2,3222,Dormant Accounts
+5493,103,21,3,23,1,4,1,1,1411,Explorers
+55,570,83,18,597,4,1,3,3,4133,At-Risk High Spenders
+550,403,87,19,708,3,1,4,3,3143,At-Risk High Spenders
+5510,586,2,13,441,4,4,3,3,4433,Champions
+5512,38,19,16,518,1,4,3,3,1433,High-Potential Newcomers
+5513,634,49,4,40,4,3,1,1,4311,Rebounding Customers
+5517,288,51,4,37,2,2,1,1,2211,Explorers
+5519,327,8,19,797,2,4,4,3,2443,High-Potential Newcomers
+5524,664,58,22,1617,4,2,4,4,4244,At-Risk High Spenders
+5527,502,25,5,58,3,3,1,1,3311,Rebounding Customers
+5529,20,56,15,444,1,2,3,3,1233,High-Potential Newcomers
+5534,253,30,8,224,2,3,2,2,2322,Explorers
+5536,404,61,19,1957,3,2,4,4,3244,At-Risk High Spenders
+5538,265,78,17,1862,2,1,3,4,2134,High-Potential Newcomers
+5543,371,49,20,802,3,3,4,3,3343,Champions
+5544,597,32,20,1490,4,3,4,4,4344,Champions
+5545,86,72,13,988,1,2,3,3,1233,High-Potential Newcomers
+5547,327,9,19,1919,2,4,4,4,2444,High-Potential Newcomers
+5552,413,50,11,293,3,2,2,2,3222,Dormant Accounts
+5555,143,81,0,6,1,1,1,1,1111,Explorers
+5558,91,90,14,1685,1,1,3,4,1134,High-Potential Newcomers
+5562,369,92,19,735,3,1,4,3,3143,At-Risk High Spenders
+5564,690,26,18,1338,4,3,3,4,4334,Champions
+5577,58,77,3,23,1,1,1,1,1111,Explorers
+5585,436,1,5,48,3,4,1,1,3411,Rebounding Customers
+5589,668,95,21,793,4,1,4,3,4143,At-Risk High Spenders
+5596,261,44,20,728,2,3,4,3,2343,High-Potential Newcomers
+5602,409,98,27,1282,3,1,4,4,3144,At-Risk High Spenders
+5610,70,58,4,36,1,2,1,1,1211,Explorers
+5621,565,8,12,316,4,4,2,2,4422,Rebounding Customers
+5623,277,95,4,51,2,1,1,1,2111,Explorers
+5626,219,13,15,463,2,4,3,3,2433,High-Potential Newcomers
+5628,507,25,23,1665,3,3,4,4,3344,Champions
+5631,424,92,17,692,3,1,3,3,3133,At-Risk High Spenders
+5633,5,47,10,231,1,3,2,2,1322,Explorers
+5636,598,50,7,167,4,2,2,2,4222,Dormant Accounts
+564,695,81,23,906,4,1,4,3,4143,At-Risk High Spenders
+5642,203,0,10,222,2,4,2,2,2422,Explorers
+5644,261,96,13,363,2,1,3,2,2132,Explorers
+5654,106,34,5,61,1,3,1,1,1311,Explorers
+5667,627,90,23,1701,4,1,4,4,4144,At-Risk High Spenders
+5675,634,98,16,493,4,1,3,3,4133,At-Risk High Spenders
+5680,69,66,4,30,1,2,1,1,1211,Explorers
+5682,464,8,26,1099,3,4,4,4,3444,Champions
+5684,262,25,5,68,2,3,1,1,2311,Explorers
+5687,645,98,26,1633,4,1,4,4,4144,At-Risk High Spenders
+569,198,32,18,1991,2,3,3,4,2334,High-Potential Newcomers
+5692,555,82,4,32,4,1,1,1,4111,Dormant Accounts
+5710,628,31,7,120,4,3,2,2,4322,Rebounding Customers
+5718,319,17,22,1415,2,4,4,4,2444,High-Potential Newcomers
+5721,50,60,23,1566,1,2,4,4,1244,High-Potential Newcomers
+5723,170,63,7,116,1,2,2,2,1222,Explorers
+5726,102,15,7,60,1,4,2,1,1421,Explorers
+5731,451,64,4,37,3,2,1,1,3211,Dormant Accounts
+5734,222,83,6,91,2,1,1,2,2112,Explorers
+5735,137,29,17,2525,1,3,3,4,1334,High-Potential Newcomers
+574,68,96,6,125,1,1,1,2,1112,Explorers
+5740,501,1,5,56,3,4,1,1,3411,Rebounding Customers
+5748,576,96,13,475,4,1,3,3,4133,At-Risk High Spenders
+5751,137,54,4,38,1,2,1,1,1211,Explorers
+5756,88,64,5,55,1,2,1,1,1211,Explorers
+5758,167,23,27,1189,1,4,4,4,1444,High-Potential Newcomers
+5763,232,63,13,380,2,2,3,2,2232,Explorers
+577,314,10,4,22,2,4,1,1,2411,Explorers
+5782,275,15,20,763,2,4,4,3,2443,High-Potential Newcomers
+5788,498,46,9,209,3,3,2,2,3322,Rebounding Customers
+5790,519,62,5,72,3,2,1,2,3212,Dormant Accounts
+5794,105,1,15,446,1,4,3,3,1433,High-Potential Newcomers
+5796,216,70,22,1125,2,2,4,4,2244,High-Potential Newcomers
+5798,219,87,14,985,2,1,3,3,2133,High-Potential Newcomers
+5802,487,40,6,75,3,3,1,2,3312,Rebounding Customers
+5823,114,63,5,39,1,2,1,1,1211,Explorers
+5824,80,1,3,8,1,4,1,1,1411,Explorers
+5827,75,53,7,62,1,2,2,1,1221,Explorers
+5830,656,96,21,2114,4,1,4,4,4144,At-Risk High Spenders
+5831,677,93,15,1815,4,1,3,4,4134,At-Risk High Spenders
+5832,71,32,21,1263,1,3,4,4,1344,High-Potential Newcomers
+5835,363,39,6,65,3,3,1,1,3311,Rebounding Customers
+5837,549,67,15,494,4,2,3,3,4233,At-Risk High Spenders
+5841,367,61,21,832,3,2,4,3,3243,At-Risk High Spenders
+5846,558,68,3,13,4,2,1,1,4211,Dormant Accounts
+5847,397,95,20,882,3,1,4,3,3143,At-Risk High Spenders
+5848,168,43,18,2009,1,3,3,4,1334,High-Potential Newcomers
+5863,397,95,17,655,3,1,3,3,3133,At-Risk High Spenders
+5866,102,39,9,219,1,3,2,2,1322,Explorers
+5868,312,49,4,46,2,3,1,1,2311,Explorers
+5871,668,98,13,467,4,1,3,3,4133,At-Risk High Spenders
+5872,394,23,18,639,3,4,3,3,3433,Champions
+5883,400,78,18,664,3,1,3,3,3133,At-Risk High Spenders
+5885,677,94,9,211,4,1,2,2,4122,Dormant Accounts
+5892,446,11,10,221,3,4,2,2,3422,Rebounding Customers
+5896,104,94,14,397,1,1,3,3,1133,High-Potential Newcomers
+5899,109,68,1,49,1,2,1,1,1211,Explorers
+590,555,35,15,1812,4,3,3,4,4334,Champions
+5907,604,24,3,18,4,4,1,1,4411,Rebounding Customers
+5909,284,25,15,1171,2,3,3,4,2334,High-Potential Newcomers
+591,526,76,18,677,3,1,3,3,3133,At-Risk High Spenders
+5922,260,48,10,218,2,3,2,2,2322,Explorers
+5929,55,14,5,48,1,4,1,1,1411,Explorers
+5935,553,60,20,764,4,2,4,3,4243,At-Risk High Spenders
+5939,164,84,7,122,1,1,2,2,1122,Explorers
+5948,62,96,10,237,1,1,2,2,1122,Explorers
+5954,264,92,9,192,2,1,2,2,2122,Explorers
+5955,590,27,15,1932,4,3,3,4,4334,Champions
+5956,257,74,11,284,2,2,2,2,2222,Explorers
+5959,623,80,9,199,4,1,2,2,4122,Dormant Accounts
+5961,23,29,4,57,1,3,1,1,1311,Explorers
+5966,597,64,10,215,4,2,2,2,4222,Dormant Accounts
+5967,347,60,6,70,2,2,1,2,2212,Explorers
+5975,273,82,5,57,2,1,1,1,2111,Explorers
+5985,625,0,7,122,4,4,2,2,4422,Rebounding Customers
+5987,57,52,5,43,1,2,1,1,1211,Explorers
+5989,440,51,23,1576,3,2,4,4,3244,At-Risk High Spenders
+5991,387,24,10,266,3,4,2,2,3422,Rebounding Customers
+5995,559,54,13,384,4,2,3,2,4232,Fading Loyalist
+6001,544,62,23,937,4,2,4,3,4243,At-Risk High Spenders
+6019,92,9,5,72,1,4,1,2,1412,Explorers
+6024,483,62,18,2302,3,2,3,4,3234,At-Risk High Spenders
+6036,105,78,18,1924,1,1,3,4,1134,High-Potential Newcomers
+6049,207,85,26,1804,2,1,4,4,2144,High-Potential Newcomers
+6050,566,33,22,1513,4,3,4,4,4344,Champions
+6055,606,94,18,1305,4,1,3,4,4134,At-Risk High Spenders
+6059,483,81,18,1314,3,1,3,4,3134,At-Risk High Spenders
+606,263,87,3,15,2,1,1,1,2111,Explorers
+607,502,31,16,521,3,3,3,3,3333,Champions
+6071,346,77,21,1157,2,1,4,4,2144,High-Potential Newcomers
+6072,513,16,19,2087,3,4,4,4,3444,Champions
+6086,219,62,23,1380,2,2,4,4,2244,High-Potential Newcomers
+6097,530,64,15,561,3,2,3,3,3233,At-Risk High Spenders
+610,692,60,15,480,4,2,3,3,4233,At-Risk High Spenders
+6103,297,40,6,100,2,3,1,2,2312,Explorers
+6116,360,13,5,75,3,4,1,2,3412,Rebounding Customers
+6119,416,52,3,17,3,2,1,1,3211,Dormant Accounts
+6131,211,87,14,431,2,1,3,3,2133,High-Potential Newcomers
+6141,431,46,12,385,3,3,2,2,3322,Rebounding Customers
+6142,314,65,13,900,2,2,3,3,2233,High-Potential Newcomers
+6147,620,51,3,28,4,2,1,1,4211,Dormant Accounts
+615,476,29,10,343,3,3,2,2,3322,Rebounding Customers
+6168,350,28,4,53,2,3,1,1,2311,Explorers
+6173,240,46,23,969,2,3,4,3,2343,High-Potential Newcomers
+6177,418,32,8,169,3,3,2,2,3322,Rebounding Customers
+618,640,17,21,797,4,4,4,3,4443,Champions
+6181,699,36,26,939,4,3,4,3,4343,Champions
+6182,140,26,6,53,1,3,1,1,1311,Explorers
+6183,385,3,7,140,3,4,2,2,3422,Rebounding Customers
+6184,565,6,14,1670,4,4,3,4,4434,Champions
+6197,436,39,6,57,3,3,1,1,3311,Rebounding Customers
+6200,448,50,21,901,3,2,4,3,3243,At-Risk High Spenders
+6201,213,45,5,49,2,3,1,1,2311,Explorers
+6202,633,78,22,1005,4,1,4,3,4143,At-Risk High Spenders
+6203,310,58,25,1734,2,2,4,4,2244,High-Potential Newcomers
+6205,126,13,6,80,1,4,1,2,1412,Explorers
+6211,59,47,4,39,1,3,1,1,1311,Explorers
+6214,451,53,5,79,3,2,1,2,3212,Dormant Accounts
+6215,183,24,4,31,2,4,1,1,2411,Explorers
+6218,618,74,16,499,4,2,3,3,4233,At-Risk High Spenders
+6222,245,28,5,37,2,3,1,1,2311,Explorers
+6230,500,53,9,189,3,2,2,2,3222,Dormant Accounts
+6233,661,21,24,971,4,4,4,3,4443,Champions
+6237,205,92,25,416,2,1,4,3,2143,High-Potential Newcomers
+624,597,5,3,35,4,4,1,1,4411,Rebounding Customers
+6245,382,71,16,507,3,2,3,3,3233,At-Risk High Spenders
+6246,229,40,22,1507,2,3,4,4,2344,High-Potential Newcomers
+6248,256,47,27,2217,2,3,4,4,2344,High-Potential Newcomers
+6250,588,62,21,775,4,2,4,3,4243,At-Risk High Spenders
+6255,27,29,12,334,1,3,2,2,1322,Explorers
+6257,523,81,16,507,3,1,3,3,3133,At-Risk High Spenders
+626,478,28,4,43,3,3,1,1,3311,Rebounding Customers
+6260,588,55,26,1957,4,2,4,4,4244,At-Risk High Spenders
+6261,216,81,15,470,2,1,3,3,2133,High-Potential Newcomers
+6262,446,93,21,1573,3,1,4,4,3144,At-Risk High Spenders
+6263,677,34,6,106,4,3,1,2,4312,Rebounding Customers
+6271,11,13,5,63,1,4,1,1,1411,Explorers
+6274,227,81,24,1615,2,1,4,4,2144,High-Potential Newcomers
+6281,501,27,14,982,3,3,3,3,3333,Champions
+6283,435,64,21,908,3,2,4,3,3243,At-Risk High Spenders
+6287,335,2,4,36,2,4,1,1,2411,Explorers
+6289,428,85,8,185,3,1,2,2,3122,Dormant Accounts
+6292,457,60,17,1822,3,2,3,4,3234,At-Risk High Spenders
+6295,511,46,22,981,3,3,4,3,3343,Champions
+6299,544,28,18,813,4,3,3,3,4333,Champions
+6303,219,72,22,1497,2,2,4,4,2244,High-Potential Newcomers
+6310,294,4,6,78,2,4,1,2,2412,Explorers
+6312,470,29,26,863,3,3,4,3,3343,Champions
+6318,533,48,29,1366,4,3,4,4,4344,Champions
+6320,509,42,22,1508,3,3,4,4,3344,Champions
+6327,193,87,16,1146,2,1,3,4,2134,High-Potential Newcomers
+6336,85,55,6,48,1,2,1,1,1211,Explorers
+6340,246,52,4,26,2,2,1,1,2211,Explorers
+6343,91,6,22,1518,1,4,4,4,1444,High-Potential Newcomers
+6347,368,26,4,36,3,3,1,1,3311,Rebounding Customers
+6349,359,71,18,1319,3,2,3,4,3234,At-Risk High Spenders
+635,468,51,17,610,3,2,3,3,3233,At-Risk High Spenders
+6354,668,51,4,47,4,2,1,1,4211,Dormant Accounts
+6355,13,19,6,45,1,4,1,1,1411,Explorers
+6357,225,29,15,491,2,3,3,3,2333,High-Potential Newcomers
+6365,301,5,5,80,2,4,1,2,2412,Explorers
+6374,409,50,11,297,3,2,2,2,3222,Dormant Accounts
+6376,385,83,15,545,3,1,3,3,3133,At-Risk High Spenders
+6379,397,3,6,121,3,4,1,2,3412,Rebounding Customers
+6382,4,97,4,54,1,1,1,1,1111,Explorers
+6383,36,78,6,46,1,1,1,1,1111,Explorers
+6384,139,30,18,1453,1,3,3,4,1334,High-Potential Newcomers
+6387,53,39,6,77,1,3,1,2,1312,Explorers
+6398,93,2,6,50,1,4,1,1,1411,Explorers
+640,476,61,23,1026,3,2,4,3,3243,At-Risk High Spenders
+6404,463,10,11,282,3,4,2,2,3422,Rebounding Customers
+6406,245,13,20,1427,2,4,4,4,2444,High-Potential Newcomers
+6409,408,18,19,1179,3,4,4,4,3444,Champions
+641,87,77,6,119,1,1,1,2,1112,Explorers
+6417,624,85,23,1564,4,1,4,4,4144,At-Risk High Spenders
+642,685,69,5,103,4,2,1,2,4212,Dormant Accounts
+6421,362,32,20,2116,3,3,4,4,3344,Champions
+6422,529,20,16,1270,3,4,3,4,3434,Champions
+6424,151,9,4,49,1,4,1,1,1411,Explorers
+6428,58,37,16,1130,1,3,3,4,1334,High-Potential Newcomers
+6431,492,13,5,68,3,4,1,1,3411,Rebounding Customers
+6437,376,80,5,76,3,1,1,2,3112,Dormant Accounts
+6439,682,37,24,1102,4,3,4,4,4344,Champions
+6445,351,73,15,858,2,2,3,3,2233,High-Potential Newcomers
+6457,32,77,22,902,1,1,4,3,1143,High-Potential Newcomers
+6460,352,78,5,57,2,1,1,1,2111,Explorers
+6461,407,74,22,946,3,2,4,3,3243,At-Risk High Spenders
+6466,110,22,7,121,1,4,2,2,1422,Explorers
+6471,256,17,6,59,2,4,1,1,2411,Explorers
+6488,85,86,7,99,1,1,2,2,1122,Explorers
+6497,600,32,13,433,4,3,3,3,4333,Champions
+6504,222,24,6,78,2,4,1,2,2412,Explorers
+6507,269,16,6,56,2,4,1,1,2411,Explorers
+6515,206,92,5,50,2,1,1,1,2111,Explorers
+6516,469,37,3,18,3,3,1,1,3311,Rebounding Customers
+6518,384,8,18,606,3,4,3,3,3433,Champions
+6521,104,18,19,1101,1,4,4,4,1444,High-Potential Newcomers
+6528,25,75,3,10,1,1,1,1,1111,Explorers
+6534,177,94,5,67,1,1,1,1,1111,Explorers
+6543,531,45,13,1612,4,3,3,4,4334,Champions
+6544,39,63,24,976,1,2,4,3,1243,High-Potential Newcomers
+6565,459,91,24,1782,3,1,4,4,3144,At-Risk High Spenders
+6566,599,39,19,1319,4,3,4,4,4344,Champions
+6568,459,97,5,79,3,1,1,2,3112,Dormant Accounts
+6575,611,51,17,612,4,2,3,3,4233,At-Risk High Spenders
+6583,392,54,20,981,3,2,4,3,3243,At-Risk High Spenders
+6605,215,85,19,682,2,1,4,3,2143,High-Potential Newcomers
+6606,456,11,17,1161,3,4,3,4,3434,Champions
+6609,650,64,6,107,4,2,1,2,4212,Dormant Accounts
+6613,626,39,20,727,4,3,4,3,4343,Champions
+6616,250,47,14,461,2,3,3,3,2333,High-Potential Newcomers
+6619,544,91,4,44,4,1,1,1,4111,Dormant Accounts
+663,292,46,5,71,2,3,1,2,2312,Explorers
+6634,327,78,5,54,2,1,1,1,2111,Explorers
+6637,240,46,14,1117,2,3,3,4,2334,High-Potential Newcomers
+6642,523,50,7,102,3,2,2,2,3222,Dormant Accounts
+6646,121,23,4,22,1,4,1,1,1411,Explorers
+6652,21,28,16,1134,1,3,3,4,1334,High-Potential Newcomers
+6653,700,72,14,418,4,2,3,3,4233,At-Risk High Spenders
+6658,343,37,25,1194,2,3,4,4,2344,High-Potential Newcomers
+6661,687,63,27,1174,4,2,4,4,4244,At-Risk High Spenders
+6663,357,96,8,157,3,1,2,2,3122,Dormant Accounts
+6673,468,51,6,129,3,2,1,2,3212,Dormant Accounts
+6678,94,5,7,72,1,4,2,2,1422,Explorers
+6679,18,29,3,16,1,3,1,1,1311,Explorers
+6682,566,41,4,37,4,3,1,1,4311,Rebounding Customers
+6690,473,30,7,90,3,3,2,2,3322,Rebounding Customers
+6694,217,27,24,1068,2,3,4,4,2344,High-Potential Newcomers
+67,285,6,6,92,2,4,1,2,2412,Explorers
+6710,590,84,6,103,4,1,1,2,4112,Dormant Accounts
+6715,544,3,19,685,4,4,4,3,4443,Champions
+6720,257,11,14,492,2,4,3,3,2433,High-Potential Newcomers
+6721,336,21,14,1213,2,4,3,4,2434,High-Potential Newcomers
+6722,2,98,20,767,1,1,4,3,1143,High-Potential Newcomers
+6728,672,38,4,48,4,3,1,1,4311,Rebounding Customers
+6729,689,95,20,1538,4,1,4,4,4144,At-Risk High Spenders
+6730,604,92,5,54,4,1,1,1,4111,Dormant Accounts
+6742,533,82,3,11,4,1,1,1,4111,Dormant Accounts
+6749,691,78,14,1722,4,1,3,4,4134,At-Risk High Spenders
+675,409,67,11,332,3,2,2,2,3222,Dormant Accounts
+6768,534,75,4,36,4,1,1,1,4111,Dormant Accounts
+6770,314,5,5,68,2,4,1,1,2411,Explorers
+679,648,49,4,38,4,3,1,1,4311,Rebounding Customers
+6798,467,30,14,433,3,3,3,3,3333,Champions
+6810,398,76,11,1187,3,1,2,4,3124,Fading Loyalist
+6815,38,4,21,809,1,4,4,3,1443,High-Potential Newcomers
+6818,656,26,11,369,4,3,2,2,4322,Rebounding Customers
+6825,481,86,3,16,3,1,1,1,3111,Dormant Accounts
+6853,361,12,20,1438,3,4,4,4,3444,Champions
+6856,665,75,6,65,4,1,1,1,4111,Dormant Accounts
+6859,265,30,7,99,2,3,2,2,2322,Explorers
+6862,43,65,0,8,1,2,1,1,1211,Explorers
+6864,39,34,6,30,1,3,1,1,1311,Explorers
+6866,99,56,4,34,1,2,1,1,1211,Explorers
+6870,286,73,11,283,2,2,2,2,2222,Explorers
+6872,313,43,14,405,2,3,3,3,2333,High-Potential Newcomers
+6875,671,38,15,529,4,3,3,3,4333,Champions
+6878,565,14,11,324,4,4,2,2,4422,Rebounding Customers
+6885,211,36,5,55,2,3,1,1,2311,Explorers
+6887,67,33,17,564,1,3,3,3,1333,High-Potential Newcomers
+6892,27,23,20,732,1,4,4,3,1443,High-Potential Newcomers
+6905,677,55,20,1004,4,2,4,3,4243,At-Risk High Spenders
+6906,392,73,17,1024,3,2,3,3,3233,At-Risk High Spenders
+6912,314,60,21,772,2,2,4,3,2243,High-Potential Newcomers
+6918,361,56,4,34,3,2,1,1,3211,Dormant Accounts
+6919,391,39,6,63,3,3,1,1,3311,Rebounding Customers
+692,557,88,3,16,4,1,1,1,4111,Dormant Accounts
+6927,633,70,11,264,4,2,2,2,4222,Dormant Accounts
+6931,135,19,15,1062,1,4,3,4,1434,High-Potential Newcomers
+6932,443,77,22,2119,3,1,4,4,3144,At-Risk High Spenders
+6935,211,44,24,978,2,3,4,3,2343,High-Potential Newcomers
+6940,252,86,8,223,2,1,2,2,2122,Explorers
+6941,351,92,5,95,2,1,1,2,2112,Explorers
+6945,391,72,31,1375,3,2,4,4,3244,At-Risk High Spenders
+6950,197,25,5,54,2,3,1,1,2311,Explorers
+6958,360,42,4,26,3,3,1,1,3311,Rebounding Customers
+6961,39,26,3,11,1,3,1,1,1311,Explorers
+6963,117,85,17,1157,1,1,3,4,1134,High-Potential Newcomers
+6969,327,75,10,233,2,1,2,2,2122,Explorers
+697,475,78,20,2047,3,1,4,4,3144,At-Risk High Spenders
+6974,181,89,21,1497,1,1,4,4,1144,High-Potential Newcomers
+6977,624,87,28,1921,4,1,4,4,4144,At-Risk High Spenders
+6982,468,14,23,1581,3,4,4,4,3444,Champions
+6983,60,24,5,45,1,4,1,1,1411,Explorers
+6988,536,93,20,1443,4,1,4,4,4144,At-Risk High Spenders
+6991,446,88,18,637,3,1,3,3,3133,At-Risk High Spenders
+6999,48,80,22,834,1,1,4,3,1143,High-Potential Newcomers
+7000,260,18,22,817,2,4,4,3,2443,High-Potential Newcomers
+7002,270,13,13,398,2,4,3,3,2433,High-Potential Newcomers
+7004,471,82,6,84,3,1,1,2,3112,Dormant Accounts
+7005,14,71,20,813,1,2,4,3,1243,High-Potential Newcomers
+7007,90,47,6,63,1,3,1,1,1311,Explorers
+701,236,58,16,1179,2,2,3,4,2234,High-Potential Newcomers
+7010,84,41,19,1363,1,3,4,4,1344,High-Potential Newcomers
+7011,626,47,7,93,4,3,2,2,4322,Rebounding Customers
+7019,523,49,9,211,3,3,2,2,3322,Rebounding Customers
+702,500,80,15,521,3,1,3,3,3133,At-Risk High Spenders
+7022,640,2,20,1410,4,4,4,4,4444,Champions
+7023,581,87,11,263,4,1,2,2,4122,Dormant Accounts
+7030,457,1,32,1485,3,4,4,4,3444,Champions
+7034,302,34,5,55,2,3,1,1,2311,Explorers
+7037,323,50,14,401,2,2,3,3,2233,High-Potential Newcomers
+7042,486,14,5,66,3,4,1,1,3411,Rebounding Customers
+7053,366,75,21,1453,3,1,4,4,3144,At-Risk High Spenders
+7055,629,57,24,1021,4,2,4,3,4243,At-Risk High Spenders
+7059,4,47,18,1495,1,3,3,4,1334,High-Potential Newcomers
+7072,458,69,17,1335,3,2,3,4,3234,At-Risk High Spenders
+7079,660,38,27,1245,4,3,4,4,4344,Champions
+709,568,27,15,1103,4,3,3,4,4334,Champions
+7093,228,74,3,22,2,2,1,1,2211,Explorers
+7094,187,87,23,1064,2,1,4,4,2144,High-Potential Newcomers
+7101,521,24,25,1198,3,4,4,4,3444,Champions
+7106,91,73,18,1242,1,2,3,4,1234,High-Potential Newcomers
+7108,660,54,12,353,4,2,2,2,4222,Dormant Accounts
+7118,698,61,20,1528,4,2,4,4,4244,At-Risk High Spenders
+7119,534,45,11,825,4,3,2,3,4323,Rebounding Customers
+7124,514,72,7,94,3,2,2,2,3222,Dormant Accounts
+7128,205,91,3,15,2,1,1,1,2111,Explorers
+7129,498,72,23,929,3,2,4,3,3243,At-Risk High Spenders
+713,22,72,14,442,1,2,3,3,1233,High-Potential Newcomers
+7141,548,15,8,213,4,4,2,2,4422,Rebounding Customers
+7143,236,14,21,820,2,4,4,3,2443,High-Potential Newcomers
+7152,451,64,4,37,3,2,1,1,3211,Dormant Accounts
+716,39,63,24,976,1,2,4,3,1243,High-Potential Newcomers
+7165,251,59,20,823,2,2,4,3,2243,High-Potential Newcomers
+7181,235,97,5,52,2,1,1,1,2111,Explorers
+7186,35,43,4,35,1,3,1,1,1311,Explorers
+7187,408,52,18,721,3,2,3,3,3233,At-Risk High Spenders
+7192,441,58,16,545,3,2,3,3,3233,At-Risk High Spenders
+7196,142,20,3,13,1,4,1,1,1411,Explorers
+7212,22,99,5,65,1,1,1,1,1111,Explorers
+7214,360,49,17,1283,3,3,3,4,3334,Champions
+7215,475,69,27,1135,3,2,4,4,3244,At-Risk High Spenders
+7224,183,24,4,31,2,4,1,1,2411,Explorers
+7230,634,98,16,493,4,1,3,3,4133,At-Risk High Spenders
+7232,139,99,5,67,1,1,1,1,1111,Explorers
+7233,651,4,14,1782,4,4,3,4,4434,Champions
+7235,203,37,6,38,2,3,1,1,2311,Explorers
+7244,180,96,7,124,1,1,2,2,1122,Explorers
+7247,585,72,17,606,4,2,3,3,4233,At-Risk High Spenders
+7250,272,48,18,612,2,3,3,3,2333,High-Potential Newcomers
+7254,185,74,7,137,2,2,2,2,2222,Explorers
+7261,545,8,12,318,4,4,2,2,4422,Rebounding Customers
+7264,49,2,3,17,1,4,1,1,1411,Explorers
+7270,156,91,18,1241,1,1,3,4,1134,High-Potential Newcomers
+7274,640,87,21,2153,4,1,4,4,4144,At-Risk High Spenders
+7275,269,34,7,131,2,3,2,2,2322,Explorers
+7279,273,3,14,1044,2,4,3,3,2433,High-Potential Newcomers
+7281,237,80,8,186,2,1,2,2,2122,Explorers
+7284,208,8,3,20,2,4,1,1,2411,Explorers
+7286,402,92,4,55,3,1,1,1,3111,Dormant Accounts
+7290,633,68,20,968,4,2,4,3,4243,At-Risk High Spenders
+7297,186,54,7,57,2,2,2,1,2221,Explorers
+73,400,81,3,18,3,1,1,1,3111,Dormant Accounts
+7300,1,50,16,535,1,2,3,3,1233,High-Potential Newcomers
+7301,590,76,6,79,4,1,1,2,4112,Dormant Accounts
+7313,392,63,22,1565,3,2,4,4,3244,At-Risk High Spenders
+7321,38,85,13,1033,1,1,3,3,1133,High-Potential Newcomers
+7325,366,86,4,40,3,1,1,1,3111,Dormant Accounts
+7326,99,83,5,63,1,1,1,1,1111,Explorers
+7327,183,71,6,47,2,2,1,1,2211,Explorers
+7342,659,6,24,1072,4,4,4,4,4444,Champions
+7348,105,0,16,1192,1,4,3,4,1434,High-Potential Newcomers
+7349,636,7,7,103,4,4,2,2,4422,Rebounding Customers
+7352,252,28,13,405,2,3,3,3,2333,High-Potential Newcomers
+736,466,67,5,52,3,2,1,1,3211,Dormant Accounts
+7366,361,12,20,1438,3,4,4,4,3444,Champions
+7369,271,56,5,62,2,2,1,1,2211,Explorers
+737,484,56,13,2231,3,2,3,4,3234,At-Risk High Spenders
+7373,609,8,11,302,4,4,2,2,4422,Rebounding Customers
+7375,613,84,14,576,4,1,3,3,4133,At-Risk High Spenders
+7378,668,34,17,573,4,3,3,3,4333,Champions
+738,87,35,8,182,1,3,2,2,1322,Explorers
+7381,571,10,21,1442,4,4,4,4,4444,Champions
+7384,344,18,15,485,2,4,3,3,2433,High-Potential Newcomers
+7386,434,83,4,43,3,1,1,1,3111,Dormant Accounts
+7393,567,15,6,92,4,4,1,2,4412,Rebounding Customers
+7396,597,92,25,1597,4,1,4,4,4144,At-Risk High Spenders
+7397,346,45,18,688,2,3,3,3,2333,High-Potential Newcomers
+7408,119,8,10,233,1,4,2,2,1422,Explorers
+7409,247,66,11,267,2,2,2,2,2222,Explorers
+7411,25,31,4,17,1,3,1,1,1311,Explorers
+7414,653,18,8,186,4,4,2,2,4422,Rebounding Customers
+7419,68,90,5,35,1,1,1,1,1111,Explorers
+7422,677,90,13,369,4,1,3,2,4132,Fading Loyalist
+7426,235,76,9,198,2,1,2,2,2122,Explorers
+7428,273,47,18,1367,2,3,3,4,2334,High-Potential Newcomers
+7431,597,40,16,1820,4,3,3,4,4334,Champions
+7433,670,87,8,165,4,1,2,2,4122,Dormant Accounts
+7437,63,31,5,29,1,3,1,1,1311,Explorers
+7441,632,80,24,1615,4,1,4,4,4144,At-Risk High Spenders
+7444,254,20,4,30,2,4,1,1,2411,Explorers
+7446,294,16,20,716,2,4,4,3,2443,High-Potential Newcomers
+7451,133,23,19,2008,1,4,4,4,1444,High-Potential Newcomers
+7453,513,46,15,488,3,3,3,3,3333,Champions
+7458,481,26,6,97,3,3,1,2,3312,Rebounding Customers
+7462,583,67,16,570,4,2,3,3,4233,At-Risk High Spenders
+7476,575,93,19,1269,4,1,4,4,4144,At-Risk High Spenders
+7485,54,48,7,138,1,3,2,2,1322,Explorers
+7488,524,30,21,825,3,3,4,3,3343,Champions
+749,223,31,7,145,2,3,2,2,2322,Explorers
+7494,525,11,11,269,3,4,2,2,3422,Rebounding Customers
+7495,192,72,8,156,2,2,2,2,2222,Explorers
+75,340,32,14,467,2,3,3,3,2333,High-Potential Newcomers
+7500,67,33,17,564,1,3,3,3,1333,High-Potential Newcomers
+7503,626,40,22,2209,4,3,4,4,4344,Champions
+7505,162,24,4,46,1,4,1,1,1411,Explorers
+7514,362,74,8,177,3,2,2,2,3222,Dormant Accounts
+7516,39,30,5,45,1,3,1,1,1311,Explorers
+7521,414,57,19,1574,3,2,4,4,3244,At-Risk High Spenders
+7527,586,97,6,76,4,1,1,2,4112,Dormant Accounts
+7530,54,48,7,138,1,3,2,2,1322,Explorers
+7532,669,26,7,132,4,3,2,2,4322,Rebounding Customers
+7533,279,15,9,187,2,4,2,2,2422,Explorers
+7540,36,52,11,270,1,2,2,2,1222,Explorers
+7573,416,12,5,86,3,4,1,2,3412,Rebounding Customers
+7574,51,80,5,41,1,1,1,1,1111,Explorers
+7592,438,86,9,209,3,1,2,2,3122,Dormant Accounts
+760,325,8,21,811,2,4,4,3,2443,High-Potential Newcomers
+7600,245,13,4,29,2,4,1,1,2411,Explorers
+7610,438,32,14,460,3,3,3,3,3333,Champions
+7613,37,97,12,326,1,1,2,2,1122,Explorers
+7617,319,83,8,163,2,1,2,2,2122,Explorers
+762,59,27,20,823,1,3,4,3,1343,High-Potential Newcomers
+7620,329,71,6,106,2,2,1,2,2212,Explorers
+7627,565,25,21,2086,4,3,4,4,4344,Champions
+7628,104,10,6,76,1,4,1,2,1412,Explorers
+7629,53,46,5,31,1,3,1,1,1311,Explorers
+7631,267,34,22,989,2,3,4,3,2343,High-Potential Newcomers
+7646,132,70,20,805,1,2,4,3,1243,High-Potential Newcomers
+7660,42,37,4,49,1,3,1,1,1311,Explorers
+7679,42,48,5,28,1,3,1,1,1311,Explorers
+7683,125,80,20,787,1,1,4,3,1143,High-Potential Newcomers
+7685,294,4,6,78,2,4,1,2,2412,Explorers
+7698,50,81,9,191,1,1,2,2,1122,Explorers
+7699,271,30,10,258,2,3,2,2,2322,Explorers
+7706,600,88,24,1048,4,1,4,4,4144,At-Risk High Spenders
+771,160,79,9,194,1,1,2,2,1122,Explorers
+7712,63,68,18,634,1,2,3,3,1233,High-Potential Newcomers
+7718,71,36,9,711,1,3,2,3,1323,High-Potential Newcomers
+7723,59,56,20,1440,1,2,4,4,1244,High-Potential Newcomers
+7725,114,33,15,641,1,3,3,3,1333,High-Potential Newcomers
+773,365,64,16,595,3,2,3,3,3233,At-Risk High Spenders
+7732,179,81,19,745,1,1,4,3,1143,High-Potential Newcomers
+7734,558,58,21,1216,4,2,4,4,4244,At-Risk High Spenders
+7736,616,36,5,61,4,3,1,1,4311,Rebounding Customers
+7755,230,91,14,411,2,1,3,3,2133,High-Potential Newcomers
+7761,333,71,7,109,2,2,2,2,2222,Explorers
+7786,502,22,8,160,3,4,2,2,3422,Rebounding Customers
+7787,668,83,20,819,4,1,4,3,4143,At-Risk High Spenders
+7788,26,53,3,10,1,2,1,1,1211,Explorers
+7789,220,96,25,1672,2,1,4,4,2144,High-Potential Newcomers
+7791,288,89,4,25,2,1,1,1,2111,Explorers
+7793,303,12,21,800,2,4,4,3,2443,High-Potential Newcomers
+7798,563,28,13,429,4,3,3,3,4333,Champions
+78,288,51,4,37,2,2,1,1,2211,Explorers
+7801,291,87,18,728,2,1,3,3,2133,High-Potential Newcomers
+7807,656,26,11,369,4,3,2,2,4322,Rebounding Customers
+7822,391,56,18,662,3,2,3,3,3233,At-Risk High Spenders
+7828,61,29,11,818,1,3,2,3,1323,High-Potential Newcomers
+7829,277,99,5,65,2,1,1,1,2111,Explorers
+7832,306,30,22,1526,2,3,4,4,2344,High-Potential Newcomers
+7842,456,54,6,74,3,2,1,2,3212,Dormant Accounts
+7848,382,17,11,368,3,4,2,2,3422,Rebounding Customers
+7849,294,12,24,1052,2,4,4,4,2444,High-Potential Newcomers
+7851,281,60,21,926,2,2,4,3,2243,High-Potential Newcomers
+7861,145,23,17,1175,1,4,3,4,1434,High-Potential Newcomers
+7872,656,7,22,557,4,4,4,3,4443,Champions
+7873,359,30,12,300,3,3,2,2,3322,Rebounding Customers
+7875,62,46,25,1677,1,3,4,4,1344,High-Potential Newcomers
+7881,275,21,23,1033,2,4,4,3,2443,High-Potential Newcomers
+7892,544,89,6,75,4,1,1,2,4112,Dormant Accounts
+7899,609,70,15,1680,4,2,3,4,4234,At-Risk High Spenders
+7901,236,39,3,22,2,3,1,1,2311,Explorers
+7912,434,69,6,103,3,2,1,2,3212,Dormant Accounts
+7919,686,2,22,2092,4,4,4,4,4444,Champions
+7922,687,29,23,966,4,3,4,3,4343,Champions
+793,632,24,5,45,4,4,1,1,4411,Rebounding Customers
+7930,315,74,10,268,2,2,2,2,2222,Explorers
+7937,73,86,6,58,1,1,1,1,1111,Explorers
+7938,270,92,15,449,2,1,3,3,2133,High-Potential Newcomers
+7943,66,40,5,35,1,3,1,1,1311,Explorers
+7947,97,99,4,37,1,1,1,1,1111,Explorers
+7959,32,19,10,1370,1,4,2,4,1424,High-Potential Newcomers
+796,615,17,23,1071,4,4,4,4,4444,Champions
+7960,319,89,25,1382,2,1,4,4,2144,High-Potential Newcomers
+7962,264,1,11,1901,2,4,2,4,2424,High-Potential Newcomers
+7966,538,48,27,1191,4,3,4,4,4344,Champions
+7972,286,79,16,1151,2,1,3,4,2134,High-Potential Newcomers
+798,553,71,4,27,4,2,1,1,4211,Dormant Accounts
+7987,115,96,15,460,1,1,3,3,1133,High-Potential Newcomers
+7990,697,2,3,17,4,4,1,1,4411,Rebounding Customers
+7998,566,77,6,112,4,1,1,2,4112,Dormant Accounts
+7999,433,17,16,1743,3,4,3,4,3434,Champions
+800,304,57,4,32,2,2,1,1,2211,Explorers
+8008,203,54,6,119,2,2,1,2,2212,Explorers
+8015,423,88,19,1313,3,1,4,4,3144,At-Risk High Spenders
+8017,11,83,5,55,1,1,1,1,1111,Explorers
+8026,273,10,14,463,2,4,3,3,2433,High-Potential Newcomers
+8029,62,27,14,1621,1,3,3,4,1334,High-Potential Newcomers
+803,451,82,3,21,3,1,1,1,3111,Dormant Accounts
+8036,73,10,7,63,1,4,2,1,1421,Explorers
+8041,660,35,15,1092,4,3,3,4,4334,Champions
+807,135,35,11,292,1,3,2,2,1322,Explorers
+8070,121,98,11,264,1,1,2,2,1122,Explorers
+8079,124,86,6,55,1,1,1,1,1111,Explorers
+8080,682,50,3,22,4,2,1,1,4211,Dormant Accounts
+8082,405,75,4,34,3,1,1,1,3111,Dormant Accounts
+8086,201,34,5,55,2,3,1,1,2311,Explorers
+8091,666,50,16,1106,4,2,3,4,4234,At-Risk High Spenders
+8093,2,72,13,914,1,2,3,3,1233,High-Potential Newcomers
+810,49,49,17,641,1,3,3,3,1333,High-Potential Newcomers
+8104,325,32,11,278,2,3,2,2,2322,Explorers
+8132,451,88,19,661,3,1,4,3,3143,At-Risk High Spenders
+8135,245,41,4,52,2,3,1,1,2311,Explorers
+8140,270,51,7,95,2,2,2,2,2222,Explorers
+8143,335,49,11,265,2,3,2,2,2322,Explorers
+8146,50,84,4,54,1,1,1,1,1111,Explorers
+8147,359,40,5,48,3,3,1,1,3311,Rebounding Customers
+8148,538,88,20,859,4,1,4,3,4143,At-Risk High Spenders
+8151,548,6,8,263,4,4,2,2,4422,Rebounding Customers
+8159,90,10,8,182,1,4,2,2,1422,Explorers
+8162,545,88,4,26,4,1,1,1,4111,Dormant Accounts
+8164,217,13,18,1908,2,4,3,4,2434,High-Potential Newcomers
+8175,374,71,7,137,3,2,2,2,3222,Dormant Accounts
+8180,227,53,12,310,2,2,2,2,2222,Explorers
+8181,290,42,8,177,2,3,2,2,2322,Explorers
+8182,176,91,7,121,1,1,2,2,1122,Explorers
+819,237,84,24,1103,2,1,4,4,2144,High-Potential Newcomers
+8204,561,93,17,1319,4,1,3,4,4134,At-Risk High Spenders
+8207,104,18,4,40,1,4,1,1,1411,Explorers
+821,619,46,21,2077,4,3,4,4,4344,Champions
+8210,319,64,13,405,2,2,3,3,2233,High-Potential Newcomers
+8212,459,89,8,174,3,1,2,2,3122,Dormant Accounts
+8213,598,71,7,96,4,2,2,2,4222,Dormant Accounts
+8216,262,7,11,325,2,4,2,2,2422,Explorers
+8230,158,28,5,71,1,3,1,2,1312,Explorers
+8233,155,9,17,556,1,4,3,3,1433,High-Potential Newcomers
+8234,319,13,3,18,2,4,1,1,2411,Explorers
+8235,157,8,21,843,1,4,4,3,1443,High-Potential Newcomers
+8254,443,48,3,23,3,3,1,1,3311,Rebounding Customers
+8268,354,23,14,404,2,4,3,3,2433,High-Potential Newcomers
+8275,141,6,3,20,1,4,1,1,1411,Explorers
+8278,673,3,15,1711,4,4,3,4,4434,Champions
+8286,314,55,7,122,2,2,2,2,2222,Explorers
+8299,292,46,5,71,2,3,1,2,2312,Explorers
+830,126,5,14,1658,1,4,3,4,1434,High-Potential Newcomers
+8310,670,96,21,1459,4,1,4,4,4144,At-Risk High Spenders
+8312,15,80,5,43,1,1,1,1,1111,Explorers
+8314,451,30,18,1772,3,3,3,4,3334,Champions
+8315,96,65,3,23,1,2,1,1,1211,Explorers
+8318,178,7,19,1738,1,4,4,4,1444,High-Potential Newcomers
+832,120,90,20,747,1,1,4,3,1143,High-Potential Newcomers
+833,92,62,6,72,1,2,1,2,1212,Explorers
+8334,269,34,7,131,2,3,2,2,2322,Explorers
+8341,61,22,4,34,1,4,1,1,1411,Explorers
+8346,680,26,10,296,4,3,2,2,4322,Rebounding Customers
+8360,235,76,9,198,2,1,2,2,2122,Explorers
+8362,327,9,19,1919,2,4,4,4,2444,High-Potential Newcomers
+8369,599,21,3,28,4,4,1,1,4411,Rebounding Customers
+837,292,0,8,174,2,4,2,2,2422,Explorers
+8370,697,50,16,1159,4,2,3,4,4234,At-Risk High Spenders
+8372,364,81,3,30,3,1,1,1,3111,Dormant Accounts
+8373,202,94,4,29,2,1,1,1,2111,Explorers
+8375,119,63,16,518,1,2,3,3,1233,High-Potential Newcomers
+8387,541,68,10,235,4,2,2,2,4222,Dormant Accounts
+839,278,54,8,170,2,2,2,2,2222,Explorers
+8395,679,48,21,1511,4,3,4,4,4344,Champions
+8397,171,82,4,34,1,1,1,1,1111,Explorers
+8402,195,40,20,794,2,3,4,3,2343,High-Potential Newcomers
+8405,273,83,11,305,2,1,2,2,2122,Explorers
+8414,317,76,6,86,2,1,1,2,2112,Explorers
+8416,213,19,5,44,2,4,1,1,2411,Explorers
+8418,92,60,5,61,1,2,1,1,1211,Explorers
+8420,331,27,6,64,2,3,1,1,2311,Explorers
+8427,584,78,22,1540,4,1,4,4,4144,At-Risk High Spenders
+843,35,47,21,805,1,3,4,3,1343,High-Potential Newcomers
+8430,553,4,3,22,4,4,1,1,4411,Rebounding Customers
+8432,654,0,19,684,4,4,4,3,4443,Champions
+8439,24,97,13,902,1,1,3,3,1133,High-Potential Newcomers
+8442,299,63,4,30,2,2,1,1,2211,Explorers
+8443,140,16,6,86,1,4,1,2,1412,Explorers
+8461,112,3,3,16,1,4,1,1,1411,Explorers
+8462,659,52,4,80,4,2,1,2,4212,Dormant Accounts
+8475,121,98,22,1608,1,1,4,4,1144,High-Potential Newcomers
+8477,476,61,4,28,3,2,1,1,3211,Dormant Accounts
+8486,637,27,13,367,4,3,3,2,4332,Frequent Shoppers
+849,375,65,18,660,3,2,3,3,3233,At-Risk High Spenders
+8492,233,25,22,1493,2,3,4,4,2344,High-Potential Newcomers
+850,267,4,20,757,2,4,4,3,2443,High-Potential Newcomers
+8504,49,70,18,1366,1,2,3,4,1234,High-Potential Newcomers
+851,356,48,17,642,2,3,3,3,2333,High-Potential Newcomers
+8514,164,59,4,20,1,2,1,1,1211,Explorers
+8523,198,39,7,60,2,3,2,1,2321,Explorers
+8524,650,15,6,101,4,4,1,2,4412,Rebounding Customers
+8527,205,37,14,395,2,3,3,2,2332,Explorers
+8534,349,51,24,992,2,2,4,3,2243,High-Potential Newcomers
+8537,488,60,20,1429,3,2,4,4,3244,At-Risk High Spenders
+8541,114,98,6,41,1,1,1,1,1111,Explorers
+8545,101,6,16,1789,1,4,3,4,1434,High-Potential Newcomers
+8553,372,65,4,42,3,2,1,1,3211,Dormant Accounts
+8557,378,57,5,46,3,2,1,1,3211,Dormant Accounts
+8560,658,94,17,680,4,1,3,3,4133,At-Risk High Spenders
+8562,398,72,10,236,3,2,2,2,3222,Dormant Accounts
+8566,15,10,3,9,1,4,1,1,1411,Explorers
+8581,482,4,20,751,3,4,4,3,3443,Champions
+8584,387,54,16,1165,3,2,3,4,3234,At-Risk High Spenders
+8588,674,92,11,289,4,1,2,2,4122,Dormant Accounts
+8594,153,25,7,135,1,3,2,2,1322,Explorers
+8595,139,99,5,67,1,1,1,1,1111,Explorers
+8601,427,3,19,1395,3,4,4,4,3444,Champions
+8602,383,97,24,1049,3,1,4,4,3144,At-Risk High Spenders
+8605,99,36,5,68,1,3,1,1,1311,Explorers
+8614,49,29,16,507,1,3,3,3,1333,High-Potential Newcomers
+8619,553,4,3,22,4,4,1,1,4411,Rebounding Customers
+8624,509,61,17,928,3,2,3,3,3233,At-Risk High Spenders
+8625,230,70,6,45,2,2,1,1,2211,Explorers
+8629,461,71,4,41,3,2,1,1,3211,Dormant Accounts
+8643,400,21,21,1662,3,4,4,4,3444,Champions
+8650,469,31,4,42,3,3,1,1,3311,Rebounding Customers
+8652,668,20,11,317,4,4,2,2,4422,Rebounding Customers
+8659,160,50,25,1038,1,2,4,3,1243,High-Potential Newcomers
+8663,39,85,3,15,1,1,1,1,1111,Explorers
+868,22,99,5,65,1,1,1,1,1111,Explorers
+8685,682,56,14,436,4,2,3,3,4233,At-Risk High Spenders
+8686,538,65,5,75,4,2,1,2,4212,Dormant Accounts
+8687,420,54,13,486,3,2,3,3,3233,At-Risk High Spenders
+8690,437,73,22,1385,3,2,4,4,3244,At-Risk High Spenders
+8692,656,50,10,240,4,2,2,2,4222,Dormant Accounts
+87,308,16,5,57,2,4,1,1,2411,Explorers
+8700,555,86,6,66,4,1,1,1,4111,Dormant Accounts
+8702,314,10,4,22,2,4,1,1,2411,Explorers
+8707,677,12,15,1401,4,4,3,4,4434,Champions
+8717,656,56,27,1835,4,2,4,4,4244,At-Risk High Spenders
+8720,687,53,1,1679,4,2,1,4,4214,Fading Loyalist
+8722,601,38,24,1853,4,3,4,4,4344,Champions
+8724,378,57,5,46,3,2,1,1,3211,Dormant Accounts
+8726,62,57,8,174,1,2,2,2,1222,Explorers
+8727,259,63,26,1150,2,2,4,4,2244,High-Potential Newcomers
+873,637,3,17,1178,4,4,3,4,4434,Champions
+8732,590,81,21,1461,4,1,4,4,4144,At-Risk High Spenders
+8737,86,22,5,43,1,4,1,1,1411,Explorers
+8746,86,28,17,1188,1,3,3,4,1334,High-Potential Newcomers
+8749,149,68,4,61,1,2,1,1,1211,Explorers
+8754,410,25,3,20,3,3,1,1,3311,Rebounding Customers
+8755,495,4,17,1196,3,4,3,4,3434,Champions
+8773,370,22,12,322,3,4,2,2,3422,Rebounding Customers
+8775,185,74,7,137,2,2,2,2,2222,Explorers
+8779,379,13,8,172,3,4,2,2,3422,Rebounding Customers
+8780,382,71,16,507,3,2,3,3,3233,At-Risk High Spenders
+8783,660,40,15,454,4,3,3,3,4333,Champions
+8786,400,52,14,450,3,2,3,3,3233,At-Risk High Spenders
+8789,170,77,11,274,1,1,2,2,1122,Explorers
+879,238,66,15,458,2,2,3,3,2233,High-Potential Newcomers
+8799,280,6,8,153,2,4,2,2,2422,Explorers
+880,530,47,5,96,3,3,1,2,3312,Rebounding Customers
+8800,514,53,22,902,3,2,4,3,3243,At-Risk High Spenders
+8805,575,1,13,371,4,4,3,2,4432,Frequent Shoppers
+8812,477,45,5,48,3,3,1,1,3311,Rebounding Customers
+8825,455,46,16,564,3,3,3,3,3333,Champions
+8832,656,24,7,123,4,4,2,2,4422,Rebounding Customers
+8842,552,33,5,44,4,3,1,1,4311,Rebounding Customers
+8852,668,80,23,1080,4,1,4,4,4144,At-Risk High Spenders
+8858,480,69,17,542,3,2,3,3,3233,At-Risk High Spenders
+8867,668,90,19,2126,4,1,4,4,4144,At-Risk High Spenders
+8870,594,68,12,497,4,2,2,3,4223,Fading Loyalist
+8876,691,49,8,152,4,3,2,2,4322,Rebounding Customers
+8890,31,1,11,272,1,4,2,2,1422,Explorers
+8895,633,68,20,968,4,2,4,3,4243,At-Risk High Spenders
+8897,432,9,17,654,3,4,3,3,3433,Champions
+89,203,49,6,69,2,3,1,2,2312,Explorers
+8908,53,35,19,1097,1,3,4,4,1344,High-Potential Newcomers
+891,296,60,3,11,2,2,1,1,2211,Explorers
+8910,609,7,11,252,4,4,2,2,4422,Rebounding Customers
+8911,448,11,18,702,3,4,3,3,3433,Champions
+8916,342,78,3,16,2,1,1,1,2111,Explorers
+8920,534,4,25,1128,4,4,4,4,4444,Champions
+8923,438,12,20,1587,3,4,4,4,3444,Champions
+8925,362,38,23,1012,3,3,4,3,3343,Champions
+8931,43,82,25,1761,1,1,4,4,1144,High-Potential Newcomers
+8932,609,57,21,1531,4,2,4,4,4244,At-Risk High Spenders
+8933,49,16,6,66,1,4,1,1,1411,Explorers
+8939,561,49,19,730,4,3,4,3,4343,Champions
+8945,318,46,9,203,2,3,2,2,2322,Explorers
+895,568,69,17,594,4,2,3,3,4233,At-Risk High Spenders
+8952,602,96,21,859,4,1,4,3,4143,At-Risk High Spenders
+8953,420,94,4,35,3,1,1,1,3111,Dormant Accounts
+8955,134,54,4,49,1,2,1,1,1211,Explorers
+8957,385,51,14,1120,3,2,3,4,3234,At-Risk High Spenders
+8962,74,18,5,37,1,4,1,1,1411,Explorers
+8969,530,59,21,1141,3,2,4,4,3244,At-Risk High Spenders
+8970,615,93,15,530,4,1,3,3,4133,At-Risk High Spenders
+8975,155,47,6,69,1,3,1,2,1312,Explorers
+8977,534,51,3,24,4,2,1,1,4211,Dormant Accounts
+898,252,39,7,147,2,3,2,2,2322,Explorers
+8985,603,54,27,1211,4,2,4,4,4244,At-Risk High Spenders
+8996,588,4,17,603,4,4,3,3,4433,Champions
+9,681,86,7,120,4,1,2,2,4122,Dormant Accounts
+9010,505,80,22,2346,3,1,4,4,3144,At-Risk High Spenders
+9014,4,65,6,61,1,2,1,1,1211,Explorers
+902,118,74,12,312,1,2,2,2,1222,Explorers
+9029,520,73,22,1536,3,2,4,4,3244,At-Risk High Spenders
+905,251,38,7,84,2,3,2,2,2322,Explorers
+9058,645,65,21,1867,4,2,4,4,4244,At-Risk High Spenders
+9064,598,10,19,1555,4,4,4,4,4444,Champions
+907,213,36,13,362,2,3,3,2,2332,Explorers
+9076,541,44,9,185,4,3,2,2,4322,Rebounding Customers
+9080,373,2,6,73,3,4,1,2,3412,Rebounding Customers
+9081,43,58,4,25,1,2,1,1,1211,Explorers
+9094,696,39,14,587,4,3,3,3,4333,Champions
+9097,239,34,12,343,2,3,2,2,2322,Explorers
+9119,207,27,13,392,2,3,3,2,2332,Explorers
+9120,572,80,15,1065,4,1,3,4,4134,At-Risk High Spenders
+9121,406,40,14,1690,3,3,3,4,3334,Champions
+9135,693,92,4,64,4,1,1,1,4111,Dormant Accounts
+9140,187,89,6,91,2,1,1,2,2112,Explorers
+9145,450,43,20,1478,3,3,4,4,3344,Champions
+9150,79,21,5,62,1,4,1,1,1411,Explorers
+9153,336,81,25,1048,2,1,4,4,2144,High-Potential Newcomers
+916,52,67,4,31,1,2,1,1,1211,Explorers
+9166,325,57,20,882,2,2,4,3,2243,High-Potential Newcomers
+9167,461,72,23,976,3,2,4,3,3243,At-Risk High Spenders
+9185,245,38,15,1029,2,3,3,3,2333,High-Potential Newcomers
+9197,126,92,5,47,1,1,1,1,1111,Explorers
+92,49,12,7,89,1,4,2,2,1422,Explorers
+9204,656,33,13,1029,4,3,3,3,4333,Champions
+9206,174,36,24,1121,1,3,4,4,1344,High-Potential Newcomers
+9209,624,85,23,1564,4,1,4,4,4144,At-Risk High Spenders
+9212,501,17,22,1678,3,4,4,4,3444,Champions
+9213,607,13,3,15,4,4,1,1,4411,Rebounding Customers
+9214,318,48,12,358,2,3,2,2,2322,Explorers
+9215,565,19,16,551,4,4,3,3,4433,Champions
+9216,158,34,5,44,1,3,1,1,1311,Explorers
+922,422,79,4,48,3,1,1,1,3111,Dormant Accounts
+9220,529,58,19,1968,3,2,4,4,3244,At-Risk High Spenders
+9224,565,81,23,1139,4,1,4,4,4144,At-Risk High Spenders
+9235,34,45,3,18,1,3,1,1,1311,Explorers
+9239,339,94,7,126,2,1,2,2,2122,Explorers
+9240,143,73,16,526,1,2,3,3,1233,High-Potential Newcomers
+9242,317,19,18,1722,2,4,3,4,2434,High-Potential Newcomers
+9246,624,73,13,415,4,2,3,3,4233,At-Risk High Spenders
+9256,542,5,23,1001,4,4,4,3,4443,Champions
+9260,602,20,25,1706,4,4,4,4,4444,Champions
+9262,361,11,4,52,3,4,1,1,3411,Rebounding Customers
+9264,64,1,21,1638,1,4,4,4,1444,High-Potential Newcomers
+9265,537,74,19,1390,4,2,4,4,4244,At-Risk High Spenders
+9274,459,44,22,1213,3,3,4,4,3344,Champions
+9283,291,49,3,18,2,3,1,1,2311,Explorers
+9284,387,21,22,907,3,4,4,3,3443,Champions
+9286,628,93,18,747,4,1,3,3,4133,At-Risk High Spenders
+9289,81,16,5,63,1,4,1,1,1411,Explorers
+9291,99,25,3,15,1,3,1,1,1311,Explorers
+9292,612,74,22,1382,4,2,4,4,4244,At-Risk High Spenders
+9298,63,89,17,1798,1,1,3,4,1134,High-Potential Newcomers
+9303,335,12,1,32,2,4,1,1,2411,Explorers
+9305,414,65,26,1315,3,2,4,4,3244,At-Risk High Spenders
+9308,415,51,13,976,3,2,3,3,3233,At-Risk High Spenders
+9316,240,29,4,29,2,3,1,1,2311,Explorers
+9323,661,5,22,874,4,4,4,3,4443,Champions
+933,584,31,3,25,4,3,1,1,4311,Rebounding Customers
+9336,100,38,18,636,1,3,3,3,1333,High-Potential Newcomers
+9347,374,49,4,46,3,3,1,1,3311,Rebounding Customers
+9349,193,84,22,1131,2,1,4,4,2144,High-Potential Newcomers
+9353,175,61,14,995,1,2,3,3,1233,High-Potential Newcomers
+9360,691,41,11,316,4,3,2,2,4322,Rebounding Customers
+9362,117,14,17,568,1,4,3,3,1433,High-Potential Newcomers
+9365,555,57,19,1277,4,2,4,4,4244,At-Risk High Spenders
+9369,103,19,31,1274,1,4,4,4,1444,High-Potential Newcomers
+9370,409,68,15,1120,3,2,3,4,3234,At-Risk High Spenders
+938,335,30,5,87,2,3,1,2,2312,Explorers
+9381,383,57,16,606,3,2,3,3,3233,At-Risk High Spenders
+9384,383,57,16,606,3,2,3,3,3233,At-Risk High Spenders
+9386,32,88,12,320,1,1,2,2,1122,Explorers
+9392,53,17,3,17,1,4,1,1,1411,Explorers
+9396,584,31,3,25,4,3,1,1,4311,Rebounding Customers
+940,43,9,12,311,1,4,2,2,1422,Explorers
+9400,9,73,18,1383,1,2,3,4,1234,High-Potential Newcomers
+9405,623,40,8,172,4,3,2,2,4322,Rebounding Customers
+942,691,36,11,299,4,3,2,2,4322,Rebounding Customers
+9422,395,26,7,131,3,3,2,2,3322,Rebounding Customers
+9423,127,49,6,46,1,3,1,1,1311,Explorers
+9426,534,77,11,900,4,1,2,3,4123,Fading Loyalist
+9432,393,23,7,62,3,4,2,1,3421,Rebounding Customers
+944,538,6,13,393,4,4,3,2,4432,Frequent Shoppers
+9449,269,32,18,605,2,3,3,3,2333,High-Potential Newcomers
+945,404,53,7,133,3,2,2,2,3222,Dormant Accounts
+9451,582,92,23,1658,4,1,4,4,4144,At-Risk High Spenders
+946,646,92,9,210,4,1,2,2,4122,Dormant Accounts
+9460,438,74,7,162,3,2,2,2,3222,Dormant Accounts
+9463,594,16,21,1443,4,4,4,4,4444,Champions
+9467,50,51,4,20,1,2,1,1,1211,Explorers
+9477,170,0,17,544,1,4,3,3,1433,High-Potential Newcomers
+9478,685,30,13,401,4,3,3,3,4333,Champions
+948,411,32,5,41,3,3,1,1,3311,Rebounding Customers
+9481,153,80,7,68,1,1,2,1,1121,Explorers
+9483,315,24,18,637,2,4,3,3,2433,High-Potential Newcomers
+9485,112,23,9,199,1,4,2,2,1422,Explorers
+9491,185,68,7,66,2,2,2,1,2221,Explorers
+9493,421,15,17,1808,3,4,3,4,3434,Champions
+9495,418,29,16,1149,3,3,3,4,3334,Champions
+9499,419,97,14,1616,3,1,3,4,3134,At-Risk High Spenders
+9500,521,66,19,758,3,2,4,3,3243,At-Risk High Spenders
+9503,670,65,11,313,4,2,2,2,4222,Dormant Accounts
+9504,236,4,24,1008,2,4,4,3,2443,High-Potential Newcomers
+9507,449,18,14,434,3,4,3,3,3433,Champions
+9516,681,90,26,1229,4,1,4,4,4144,At-Risk High Spenders
+9523,317,95,3,15,2,1,1,1,2111,Explorers
+9529,214,8,21,1627,2,4,4,4,2444,High-Potential Newcomers
+9530,606,16,3,17,4,4,1,1,4411,Rebounding Customers
+954,95,77,6,102,1,1,1,2,1112,Explorers
+9543,228,74,3,22,2,2,1,1,2211,Explorers
+955,610,81,10,240,4,1,2,2,4122,Dormant Accounts
+9553,537,94,3,15,4,1,1,1,4111,Dormant Accounts
+9559,157,79,25,1034,1,1,4,3,1143,High-Potential Newcomers
+9560,484,18,21,1674,3,4,4,4,3444,Champions
+9576,504,60,8,159,3,2,2,2,3222,Dormant Accounts
+9579,358,61,6,106,3,2,1,2,3212,Dormant Accounts
+9589,86,54,17,1234,1,2,3,4,1234,High-Potential Newcomers
+9592,365,51,5,33,3,2,1,1,3211,Dormant Accounts
+9595,535,1,13,1574,4,4,3,4,4434,Champions
+9596,189,19,19,664,2,4,4,3,2443,High-Potential Newcomers
+9597,140,10,18,725,1,4,3,3,1433,High-Potential Newcomers
+9606,307,64,12,1536,2,2,2,4,2224,High-Potential Newcomers
+961,291,92,15,860,2,1,3,3,2133,High-Potential Newcomers
+9612,143,3,4,43,1,4,1,1,1411,Explorers
+9617,75,37,4,19,1,3,1,1,1311,Explorers
+9624,17,46,13,963,1,3,3,3,1333,High-Potential Newcomers
+9635,71,13,7,129,1,4,2,2,1422,Explorers
+9645,624,98,23,1338,4,1,4,4,4144,At-Risk High Spenders
+9648,604,20,10,253,4,4,2,2,4422,Rebounding Customers
+965,594,34,17,590,4,3,3,3,4333,Champions
+9653,622,16,5,68,4,4,1,1,4411,Rebounding Customers
+966,360,98,19,691,3,1,4,3,3143,At-Risk High Spenders
+9665,429,48,12,361,3,3,2,2,3322,Rebounding Customers
+9668,534,14,6,77,4,4,1,2,4412,Rebounding Customers
+967,344,11,16,515,2,4,3,3,2433,High-Potential Newcomers
+9671,155,47,6,69,1,3,1,2,1312,Explorers
+9672,191,82,5,65,2,1,1,1,2111,Explorers
+968,186,24,9,187,2,4,2,2,2422,Explorers
+9687,30,1,15,726,1,4,3,3,1433,High-Potential Newcomers
+9697,116,86,17,542,1,1,3,3,1133,High-Potential Newcomers
+9699,191,12,20,733,2,4,4,3,2443,High-Potential Newcomers
+9701,468,13,9,312,3,4,2,2,3422,Rebounding Customers
+9703,623,70,7,184,4,2,2,2,4222,Dormant Accounts
+9706,371,98,6,94,3,1,1,2,3112,Dormant Accounts
+9707,584,65,17,1182,4,2,3,4,4234,At-Risk High Spenders
+9710,526,80,21,792,3,1,4,3,3143,At-Risk High Spenders
+9723,536,8,24,1016,4,4,4,3,4443,Champions
+9725,25,16,3,12,1,4,1,1,1411,Explorers
+9727,122,13,6,81,1,4,1,2,1412,Explorers
+9729,393,48,17,615,3,3,3,3,3333,Champions
+9733,659,52,4,80,4,2,1,2,4212,Dormant Accounts
+9736,553,51,6,96,4,2,1,2,4212,Dormant Accounts
+9738,533,43,6,100,4,3,1,2,4312,Rebounding Customers
+9739,527,55,6,114,3,2,1,2,3212,Dormant Accounts
+9743,535,85,27,1910,4,1,4,4,4144,At-Risk High Spenders
+975,398,25,10,264,3,3,2,2,3322,Rebounding Customers
+9750,508,41,18,1307,3,3,3,4,3334,Champions
+9757,269,98,23,1631,2,1,4,4,2144,High-Potential Newcomers
+9760,521,24,25,1198,3,4,4,4,3444,Champions
+977,333,10,14,414,2,4,3,3,2433,High-Potential Newcomers
+9771,633,97,11,269,4,1,2,2,4122,Dormant Accounts
+9780,370,12,24,795,3,4,4,3,3443,Champions
+979,495,11,6,112,3,4,1,2,3412,Rebounding Customers
+9790,219,12,18,1334,2,4,3,4,2434,High-Potential Newcomers
+9797,78,38,14,443,1,3,3,3,1333,High-Potential Newcomers
+9799,418,57,16,1173,3,2,3,4,3234,At-Risk High Spenders
+9805,375,65,18,660,3,2,3,3,3233,At-Risk High Spenders
+9817,678,71,25,1049,4,2,4,4,4244,At-Risk High Spenders
+9826,656,96,21,2114,4,1,4,4,4144,At-Risk High Spenders
+9829,138,42,6,78,1,3,1,2,1312,Explorers
+983,275,82,11,414,2,1,2,3,2123,High-Potential Newcomers
+9847,696,39,14,587,4,3,3,3,4333,Champions
+9850,578,32,3,19,4,3,1,1,4311,Rebounding Customers
+9855,309,25,25,1020,2,3,4,3,2343,High-Potential Newcomers
+9860,472,11,9,215,3,4,2,2,3422,Rebounding Customers
+9862,228,37,5,33,2,3,1,1,2311,Explorers
+988,54,84,17,1193,1,1,3,4,1134,High-Potential Newcomers
+9888,5,3,15,1091,1,4,3,4,1434,High-Potential Newcomers
+9904,458,50,23,1043,3,2,4,3,3243,At-Risk High Spenders
+9905,352,69,9,255,2,2,2,2,2222,Explorers
+9907,208,80,24,1013,2,1,4,3,2143,High-Potential Newcomers
+9909,598,24,7,122,4,4,2,2,4422,Rebounding Customers
+9916,604,92,5,54,4,1,1,1,4111,Dormant Accounts
+9923,285,6,6,92,2,4,1,2,2412,Explorers
+9925,401,97,9,216,3,1,2,2,3122,Dormant Accounts
+9930,237,8,27,1167,2,4,4,4,2444,High-Potential Newcomers
+9931,7,29,0,9,1,3,1,1,1311,Explorers
+9937,179,75,16,576,1,1,3,3,1133,High-Potential Newcomers
+9938,284,82,16,1600,2,1,3,4,2134,High-Potential Newcomers
+9940,554,97,14,1009,4,1,3,3,4133,At-Risk High Spenders
+9949,620,36,12,877,4,3,2,3,4323,Rebounding Customers
+9952,201,53,16,1105,2,2,3,4,2234,High-Potential Newcomers
+9955,503,20,7,134,3,4,2,2,3422,Rebounding Customers
+9958,93,54,20,769,1,2,4,3,1243,High-Potential Newcomers
+9960,61,52,3,14,1,2,1,1,1211,Explorers
+9964,327,56,14,424,2,2,3,3,2233,High-Potential Newcomers
+9967,396,30,14,447,3,3,3,3,3333,Champions
+9970,256,3,8,162,2,4,2,2,2422,Explorers
+9971,80,22,16,506,1,4,3,3,1433,High-Potential Newcomers
+9972,78,25,4,46,1,3,1,1,1311,Explorers
+9973,621,28,16,490,4,3,3,3,4333,Champions
+9974,353,75,6,70,2,1,1,2,2112,Explorers
+9977,286,99,17,734,2,1,3,3,2133,High-Potential Newcomers
+9984,460,25,17,724,3,3,3,3,3333,Champions
+9986,128,8,7,54,1,4,2,1,1421,Explorers
+9988,484,84,22,860,3,1,4,3,3143,At-Risk High Spenders
+999,544,95,24,730,4,1,4,3,4143,At-Risk High Spenders
+9999,641,2,22,1040,4,4,4,3,4443,Champions
